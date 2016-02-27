@@ -33,29 +33,6 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 
 #+END_SRC
 
-#+BEGIN_SRC ocaml
-
-#+END_SRC
-
-#+BEGIN_SRC ocaml
-
-#+END_SRC
-
-#+BEGIN_SRC ocaml
-
-#+END_SRC
-
-#+BEGIN_SRC ocaml
-
-#+END_SRC
-
-#+BEGIN_SRC ocaml
-
-#+END_SRC
-
-#+BEGIN_SRC ocaml
-
-#+END_SRC
 
 * Variables
 
@@ -148,3 +125,35 @@ The name of an exception must begin with a capital letter.
 
 You can declare new types of exceptions, with or without a parameter
 
+* Comments
+#+BEGIN_SRC ocaml
+(* One line *)
+(* 
+ * Multi-line
+ *)
+
+(* 
+ * (* Embedded *)
+ *)
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC

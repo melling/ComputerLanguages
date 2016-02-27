@@ -6,3 +6,22 @@
 Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
 * Inbox
+
+* Variables
+
+#+BEGIN_SRC perl
+
+my $var1 = "hello";
+
+#+END_SRC
+
+
+* Functions
+
+#+BEGIN_SRC perl
+sub add {
+	my($var1, $var2) = @_;
+
+	return $var1 + $var1;
+}
+#+END_SRC
