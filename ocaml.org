@@ -4,18 +4,146 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
 
 #+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
 * Inbox
++ [[https://try.ocamlpro.com][Web REPL]]
++ [[http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html][A Concise Introduction to Objective Caml]]
++ [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
-+ http://github.com/the-lambda-church/merlin
++ [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
++ [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
+ - http://news.ycombinator.com/item?id=9712225
 + http://news.ycombinator.com/item?id=10417521
-+ http://news.ycombinator.com/item?id=9712225
 + http://www.reddit.com/r/ocaml/comments/39pxqg/what_are_the_most_common_bugs_in_ocamlfunctional
 + http://www2.lib.uchicago.edu/keith/ocaml-class/home.html
 + http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
-+ http://www.youtube.com/watch?v=hXiz2_VlwMU
++ [[https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1][33 Learning oCaml videos]]
+ - [[http://www.youtube.com/watch?v=hXiz2_VlwMU][Writing oCaml Scripts #32]]
 + https://ocaml.org/learn/tutorials/ocaml_and_the_web.html
 + http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
 + http://fsharpforfunandprofit.com
 + http://www.infoq.com/presentations/jane-street-caml-ocaml
+
+#+BEGIN_SRC ocaml
+
+(* Addition *)
+
+1 + 1
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+#+BEGIN_SRC ocaml
+
+#+END_SRC
+
+* Variables
+
+#+BEGIN_SRC OCaml 
+let pi = 3.1416;;
+
+let () = print_endline "Hello, World!"
+#+END_SRC 
+
+
+#+BEGIN_SRC OCaml 
+toplevel
+
+let average a b =
+  (a +. b) /. 2.0;;
+average;;
+
+let rec // recursion
+
+my_ref := 100;
+#+END_SRC 
+
+* Functions
+
+A function always has exactly one parameter, and returns one result.
+#+BEGIN_SRC OCaml 
+(* In this case, the one argument is a tuple, and the one result is a tuple. *)
+let swap (x, y) = (y, x);;
+#+END_SRC 
+
+
+#+BEGIN_SRC OCaml 
+let sum (x, y) = x + y;;
+sum(3, 5);;
+let max (x, y) = if x > y then x else y;;
+max(9, 5)
+
+let hi () =
+  print_string "hello\n";;
+#+END_SRC
+
+
+#+BEGIN_SRC oCaml
+(*
+Here, the one argument is the unit, (), which is a value--it is not syntax to indicate an empty parameter list. Similarly, the unit is returned as a result.
+*)
+print_newline ();;
+#+END_SRC 
+
+* Include Files
+#+BEGIN_SRC OCaml 
+use "myFile.sml"
+#+END_SRC 
+The most common functions are in the "Pervasives module," which means you don't have to do anything special to use them
+
+#+BEGIN_SRC OCaml 
+ open String;; 
+length "hello";;
+#+END_SRC 
+
+Identifiers must begin with a lowercase letter or underscore, and may contain letters, digits, underscores, and single quotes.
+
+* Lists
+[2; 3; 5; 7]
+Only the :: operator (LISP cons) and @ operator (list concatenation) can be used without opening the List module or prefixing the function name with List. .
+
+** List Operations
+
+#+BEGIN_SRC OCaml 
+5 :: [6; 7]
+[5] @ [6; 7]
+List.nth [3; 5; 7] 2
+List.rev [1; 2; 3]
+#+END_SRC 
+
+* Tuples
+#+BEGIN_SRC OCaml 
+(5, "hello", ~16)
+#+END_SRC
+
+** Tuple Operations
+#+BEGIN_SRC OCaml
+open Char;;
+Char.uppercase 'a'
+#+END_SRC 
+
+* Exceptions
+
+The name of an exception must begin with a capital letter. 
+
+You can declare new types of exceptions, with or without a parameter
+
