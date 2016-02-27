@@ -11,9 +11,15 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 
 #+BEGIN_SRC perl
 
-my $var1 = "hello";
+my $str = "hello";
+my $pi = 3.14;
+my num = 42;
 
 #+END_SRC
+
+* Arrays
+
+* Dictionaries
 
 
 * Functions
@@ -24,4 +30,6 @@ sub add {
 
 	return $var1 + $var1;
 }
+
+my $result = add(2,3);
 #+END_SRC
