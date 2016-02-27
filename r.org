@@ -1,0 +1,7 @@
+#+STARTUP: showall
+#+TITLE: R
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+* Inbox
++ [[http://adv-r.had.co.nz][Advanced R by Hadley Wickham]]

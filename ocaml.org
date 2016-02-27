@@ -1,0 +1,21 @@
+#+STARTUP: showall
+#+TITLE: OCaml
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "dev_menu.org"
+Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+
+* Inbox
++ http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
++ http://github.com/the-lambda-church/merlin
++ http://news.ycombinator.com/item?id=10417521
++ http://news.ycombinator.com/item?id=9712225
++ http://www.reddit.com/r/ocaml/comments/39pxqg/what_are_the_most_common_bugs_in_ocamlfunctional
++ http://www2.lib.uchicago.edu/keith/ocaml-class/home.html
++ http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
++ http://www.youtube.com/watch?v=hXiz2_VlwMU
++ https://ocaml.org/learn/tutorials/ocaml_and_the_web.html
++ http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
++ http://fsharpforfunandprofit.com
++ http://www.infoq.com/presentations/jane-street-caml-ocaml

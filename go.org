@@ -1,0 +1,166 @@
+#+STARTUP: showall
+#+TITLE: Go
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+#+INCLUDE: "dev_menu.org"
+Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+
+* Inbox
++ https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
++ [[https://mholt.github.io/curl-to-go][Curl to Go]]
++ http://news.ycombinator.com/item?id=10395694 - Statistics package
++ http://blog.ksred.me/post/learning-golang-stock-notifier
++ http://github.com/m3ng9i/ran
++ http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
++ http://news.ycombinator.com/item?id=10286852 - Lisp
++ http://devdungeon.com/content/working-files-go
++ http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
++ http://news.ycombinator.com/item?id=9829025
++ http://news.ycombinator.com/item?id=9751121
++ http://www.jjinux.com/2015/05/tetris-written-in-go.html
+ - http://news.ycombinator.com/item?id=9607651
++ http://java.dzone.com/articles/exploring-go-template-engine
++ http://news.ycombinator.com/item?id=9439041 - A minimal blog engine written in Go, compatible with Ghost themes
++ http://getting-started.md/guides/3-go-martini
++ http://github.com/doneland/yquotes
+  - http://news.ycombinator.com/item?id=9374373
++ http://blog.golang.org/normalization
++ http://news.ycombinator.com/item?id=9058872 - calc
++ http://news.ycombinator.com/item?id=9009554 - Show HN: I rendered the Go gopher using Go 
++ http://www.wadewegner.com/2014/12/4-simple-steps-to-run-go-language-in-azure-websites/
++ http://nicolasmerouze.com/build-web-framework-golang/
++ http://weblogs.java.net/blog/manningpubs/archive/2014/11/19/go-practical-introduction-slices
++ http://news.ycombinator.com/item?id=8643461
++ http://news.ycombinator.com/item?id=8645394
++ http://talks.golang.org/2014/readability.slide#1
++ http://avtok.com/2014/11/05/interface-upgrades.html
++ http://github.com/renstrom/go-wiki
++ http://github.com/cdarwin/go-koans
++ http://jdanger.com/build-a-web-crawler-in-go.html
++ http://soryy.com/blog/2014/not-another-go-net-http-tutorial
+
+* Setup
+#+BEGIN_HTML
+<pre class='org-code'>
+#+END_HTML
+
+export GOPATH=$HOME
+
+go get github.com/mattn/go-sqlite3
+go get github.com/gorilla/mux
+go get github.com/gorilla/pat
+go get github.com/go-sql-driver/mysql; # http://github.com/go-sql-driver/mysql
+
+---
+
+golang-book.com
+gpm
+godep
+goop
+
+#+BEGIN_HTML
+</pre>
+#+END_HTML
+
+
+* Tutorials
+#+BEGIN_HTML
+<pre class='org-code'>
+#+END_HTML
+
+http://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/
+
+	http://micknelson.wordpress.com/2012/11/14/a-tour-of-go-the-web-crawler-exercise/
+	http://www.golang-book.com/
+	http://play.golang.org/
+  http://gobyexample.com/
+
+  http://github.com/jimmahoney/golang-webserver/blob/master/webserver.go
+  http://github.com/TeamTwilightSparkle/webserver
+  http://blog.smartbear.com/web-development/how-to-build-a-web-service-in-5-minutes-with-go/
+
+http://www.jeffreybolle.com/blog/create-a-web-app-using-google-go
+http://github.com/jeffreybolle/rebuilder
+
+  http://codegangsta.gitbooks.io/building-web-apps-with-go/
+
+    http://eager.io/blog/go-and-json/|Go and JSON
+
+  http://news.ycombinator.com/item?id=8413341
+
+http://soryy.com/blog/2014/not-another-go-net-http-tutorial/
+
+http://github.com/apsdehal/Konsoole
+http://news.ycombinator.com/item?id=8440755
+
+http://github.com/sosedoff/pgweb/
+
+
+go test -cover 
+eg example-based factoring
+
+gorename
+   http://godoc.org/code.google.com/p/go.tools/cmd/gorename
+   http://github.com/smartystreets/sublime-gorename
+
+go/types 
+
+goimports
+    http://blog.campoy.cat/2013/12/integrating-goimports-with-gosublime-on.html
+go oracle 
+go tool pprof in 1.4
+
+llgo 
+
+http://github.com/smartystreets/mafsa
+#+BEGIN_HTML
+</pre>
+#+END_HTML
+
+<h2>Emacs and Go</h2>
+#+BEGIN_HTML
+<pre class='org-code'>
+#+END_HTML
+http://tleyden.github.io/blog/2014/05/22/configure-emacs-as-a-go-editor-from-scratch/
+http://github.com/dominikh/go-mode.el
+http://medium.com/@olebedev/live-code-reloading-for-golang-web-projects-in-19-lines-8b2e8777b1ea
+http://news.ycombinator.com/item?id=8772636
+#+BEGIN_HTML
+</pre>
+#+END_HTML
+
++ http://news.ycombinator.com/item?id=8791935
++ http://news.ycombinator.com/item?id=8797590
+
+* Simple Crawler
+#+BEGIN_SRC
+package main
+
+import (
+	// "fmt"
+	// "html/template"
+	"fmt"
+	"io/ioutil"
+	"net/http"
+	// "strconv"
+	// "strings"
+	// "time"
+)
+
+func crawl() {
+	var url = "http://www.h4labs.com"
+
+	resp, err := http.Get(url)
+	if err != nil {
+		// handle error
+	}
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	fmt.Print(string(body))
+}
+
+func main() {
+	crawl()
+}
+#+END_SRC
