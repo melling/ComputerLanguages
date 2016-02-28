@@ -10,6 +10,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[https://try.ocamlpro.com][Web REPL]]
 + [[http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html][A Concise Introduction to Objective Caml]]
 + [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
++ [[https://realworldocaml.org][Real World OCaml]]
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
 + [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
 + [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
@@ -89,7 +90,7 @@ use "myFile.sml"
 The most common functions are in the "Pervasives module," which means you don't have to do anything special to use them
 
 #+BEGIN_SRC OCaml 
- open String;; 
+open String;; 
 length "hello";;
 #+END_SRC 
 
@@ -138,6 +139,8 @@ You can declare new types of exceptions, with or without a parameter
 
 #+END_SRC
 
+* opam Package Manager
++ http://opam.ocaml.org/doc/Install.html
 #+BEGIN_SRC ocaml
 
 #+END_SRC
