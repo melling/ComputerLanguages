@@ -141,6 +141,7 @@ You can declare new types of exceptions, with or without a parameter
 
 * opam Package Manager
 + http://opam.ocaml.org/doc/Install.html
+ - brew install opam
 #+BEGIN_SRC ocaml
 
 #+END_SRC
