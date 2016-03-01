@@ -6,11 +6,14 @@
 #+INCLUDE: "dev_menu.org"
 Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
+* The Short List 
 + [[https://try.ocamlpro.com][Web REPL]]
 + [[http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html][A Concise Introduction to Objective Caml]]
 + [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
 + [[https://realworldocaml.org][Real World OCaml]]
+
+* Inbox
+
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
 + [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
 + [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
