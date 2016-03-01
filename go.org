@@ -9,6 +9,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 * Inbox
 + [[https://github.com/Microsoft/vscode-go][Visual Studio Plugin]]
 + [[https://github.com/arschles/go-in-5-minutes][Go in 5 Minutes]]
+ - http://www.goin5minutes.com/screencasts/index.html
 + https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
 + [[https://mholt.github.io/curl-to-go][Curl to Go]]
 + http://news.ycombinator.com/item?id=10395694 - Statistics package
