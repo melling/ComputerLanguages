@@ -36,6 +36,10 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now][Why OCaml, why now?]]
  - https://news.ycombinator.com/item?id=9049467
 
+* F# Differences
++ http://stackoverflow.com/questions/179492/f-changes-to-ocaml
++ http://web.archive.org/web/20080410181630/http://research.microsoft.com/fsharp/manual/ml-compat.aspx
+
 #+BEGIN_SRC ocaml
 
 (* Addition *)
