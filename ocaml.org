@@ -15,6 +15,9 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 * Inbox
 
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
+ - http://roscidus.com/blog/blog/2014/02/13/ocaml-what-you-gain/
+   + https://news.ycombinator.com/item?id=7234855
+
 + [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
 + [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
  - http://news.ycombinator.com/item?id=9712225
@@ -28,6 +31,10 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
 + http://fsharpforfunandprofit.com
 + http://www.infoq.com/presentations/jane-street-caml-ocaml
++ [[http://tech.esper.com/2014/07/15/why-we-use-ocaml/][Why We Use OCaml]]
++ https://www.reddit.com/r/ocaml/comments/3ifwe9/what_are_ocamlers_critiques_of_haskell
++ [[https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now][Why OCaml, why now?]]
+ - https://news.ycombinator.com/item?id=9049467
 
 #+BEGIN_SRC ocaml
 
