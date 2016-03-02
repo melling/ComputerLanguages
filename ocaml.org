@@ -27,7 +27,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
 + https://ocaml.org/learn/tutorials/ocaml_and_the_web.html
 + [[http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html][Beginner's guide to OCaml beginner's guides.]]
-+ http://fsharpforfunandprofit.com
++ [[http://fsharpforfunandprofit.com][F# for fun and profit]]
 + http://www.infoq.com/presentations/jane-street-caml-ocaml
 + [[http://tech.esper.com/2014/07/15/why-we-use-ocaml/][Why We Use OCaml]]
 + https://www.reddit.com/r/ocaml/comments/3ifwe9/what_are_ocamlers_critiques_of_haskell
