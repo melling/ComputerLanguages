@@ -34,6 +34,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + https://www.reddit.com/r/ocaml/comments/3ifwe9/what_are_ocamlers_critiques_of_haskell
 + [[https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now][Why OCaml, why now?]]
  - https://news.ycombinator.com/item?id=9049467
++ http://hyegar.com/2015/10/20/so-youre-learning-ocaml/index.html
 
 * F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
