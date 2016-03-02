@@ -12,6 +12,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
 + [[https://realworldocaml.org][Real World OCaml]]
 + [[https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1][33 Learning oCaml videos]]
++ [[https://ocaml.org][Official OCaml Site]]
 
 * Inbox
 
