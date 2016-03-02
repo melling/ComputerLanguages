@@ -18,7 +18,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
  - http://roscidus.com/blog/blog/2014/02/13/ocaml-what-you-gain/
    + https://news.ycombinator.com/item?id=7234855
-
++ [[https://www.youtube.com/playlist?list=PLea0WJq13cnA1622rtoEhd911spMDRvWh][OCaml Data Structures - YouTube]]
 + [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
 + [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
  - http://news.ycombinator.com/item?id=9712225
