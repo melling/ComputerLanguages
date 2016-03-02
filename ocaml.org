@@ -22,7 +22,6 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[http://github.com/the-lambda-church/merlin][Merlin: Context sensitive completion for OCaml in Vim and Emacs]]
 + [[http://www.lexicallyscoped.com/2015/06/06/intro-to-ocaml.html][A brief introduction to OCaml]]
  - http://news.ycombinator.com/item?id=9712225
-+ http://news.ycombinator.com/item?id=10417521
 + http://www.reddit.com/r/ocaml/comments/39pxqg/what_are_the_most_common_bugs_in_ocamlfunctional
 + http://www2.lib.uchicago.edu/keith/ocaml-class/home.html
 + http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
@@ -35,6 +34,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now][Why OCaml, why now?]]
  - https://news.ycombinator.com/item?id=9049467
 + [[http://hyegar.com/2015/10/20/so-youre-learning-ocaml/index.html][So you're learning OCaml]]
+ - http://news.ycombinator.com/item?id=10417521
 
 * F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
