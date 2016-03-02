@@ -11,6 +11,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html][A Concise Introduction to Objective Caml]]
 + [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
 + [[https://realworldocaml.org][Real World OCaml]]
++ [[https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1][33 Learning oCaml videos]]
 
 * Inbox
 
@@ -25,8 +26,6 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://www.reddit.com/r/ocaml/comments/39pxqg/what_are_the_most_common_bugs_in_ocamlfunctional
 + http://www2.lib.uchicago.edu/keith/ocaml-class/home.html
 + http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
-+ [[https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1][33 Learning oCaml videos]]
- - [[http://www.youtube.com/watch?v=hXiz2_VlwMU][Writing oCaml Scripts #32]]
 + https://ocaml.org/learn/tutorials/ocaml_and_the_web.html
 + http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
 + http://fsharpforfunandprofit.com
