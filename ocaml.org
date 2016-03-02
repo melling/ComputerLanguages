@@ -27,14 +27,14 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://www2.lib.uchicago.edu/keith/ocaml-class/home.html
 + http://www2.lib.uchicago.edu/keith/ocaml-class/userdefined.html
 + https://ocaml.org/learn/tutorials/ocaml_and_the_web.html
-+ http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
++ [[http://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html][Beginner's guide to OCaml beginner's guides.]]
 + http://fsharpforfunandprofit.com
 + http://www.infoq.com/presentations/jane-street-caml-ocaml
 + [[http://tech.esper.com/2014/07/15/why-we-use-ocaml/][Why We Use OCaml]]
 + https://www.reddit.com/r/ocaml/comments/3ifwe9/what_are_ocamlers_critiques_of_haskell
 + [[https://spyder.wordpress.com/2014/03/16/why-ocaml-why-now][Why OCaml, why now?]]
  - https://news.ycombinator.com/item?id=9049467
-+ http://hyegar.com/2015/10/20/so-youre-learning-ocaml/index.html
++ [[http://hyegar.com/2015/10/20/so-youre-learning-ocaml/index.html][So you're learning OCaml]]
 
 * F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
