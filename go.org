@@ -6,19 +6,24 @@
 #+INCLUDE: "dev_menu.org"
 Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
-+ [[https://github.com/Microsoft/vscode-go][Visual Studio Plugin]]
+* The Short List
 + [[https://github.com/arschles/go-in-5-minutes][Go in 5 Minutes]]
  - http://www.goin5minutes.com/screencasts/index.html
++ [[https://gobyexample.com][Go by Example]]
+
+* Editor/IDE Support
++ [[https://github.com/Microsoft/vscode-go][Visual Studio Plugin]]
 + https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
++ http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
++ http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
+
+* Inbox
 + [[https://mholt.github.io/curl-to-go][Curl to Go]]
 + http://news.ycombinator.com/item?id=10395694 - Statistics package
 + http://blog.ksred.me/post/learning-golang-stock-notifier
 + http://github.com/m3ng9i/ran
-+ http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
 + http://news.ycombinator.com/item?id=10286852 - Lisp
 + http://devdungeon.com/content/working-files-go
-+ http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
 + http://news.ycombinator.com/item?id=9829025
 + http://news.ycombinator.com/item?id=9751121
 + http://www.jjinux.com/2015/05/tetris-written-in-go.html
