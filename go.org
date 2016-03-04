@@ -13,7 +13,7 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + [[https://gobyexample.com][Go by Example]]
 
 * Editor/IDE Support
-+ [[https://github.com/Microsoft/vscode-go][Visual Studio Plugin]]
++ [[https://github.com/Microsoft/vscode-go][Visual Studio Code Plugin]]
 + https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
 + http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
 + http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
