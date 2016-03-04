@@ -40,8 +40,10 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 + http://www.wadewegner.com/2014/12/4-simple-steps-to-run-go-language-in-azure-websites/
 + http://nicolasmerouze.com/build-web-framework-golang/
 + http://weblogs.java.net/blog/manningpubs/archive/2014/11/19/go-practical-introduction-slices
-+ http://news.ycombinator.com/item?id=8643461
-+ http://news.ycombinator.com/item?id=8645394
++ [[https://texlution.com/post/gorename/][gorename: easy refactoring tool for Golang]]
+ - http://news.ycombinator.com/item?id=8643461
++ [[http://blog.charmes.net/2014/11/futures-in-go.html][Futures in Go]]
+ -  http://news.ycombinator.com/item?id=8645394
 + http://talks.golang.org/2014/readability.slide#1
 + http://avtok.com/2014/11/05/interface-upgrades.html
 + http://github.com/renstrom/go-wiki
