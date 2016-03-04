@@ -7,6 +7,7 @@
 Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
 * The Short List
++ [[https://github.com/avelino/awesome-go][Awesome Go]]
 + [[https://github.com/arschles/go-in-5-minutes][Go in 5 Minutes]]
  - http://www.goin5minutes.com/screencasts/index.html
 + [[https://gobyexample.com][Go by Example]]
