@@ -7,3 +7,4 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
 
 * Inbox
 + [[http://adv-r.had.co.nz][Advanced R by Hadley Wickham]]
++ [[https://learnxinyminutes.com/docs/r/][Learn X in Y minutes Where X=R]]
