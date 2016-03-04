@@ -44,11 +44,11 @@ Menu: [[file:bash.org][bash]] | [[file:go.org][Go]] | [[file:haskell.org][Haskel
  - http://news.ycombinator.com/item?id=8643461
 + [[http://blog.charmes.net/2014/11/futures-in-go.html][Futures in Go]]
  -  http://news.ycombinator.com/item?id=8645394
-+ http://talks.golang.org/2014/readability.slide#1
++ [[http://talks.golang.org/2014/readability.slide#1][When in Go, do as Gophers do]]
 + http://avtok.com/2014/11/05/interface-upgrades.html
-+ http://github.com/renstrom/go-wiki
-+ http://github.com/cdarwin/go-koans
-+ http://jdanger.com/build-a-web-crawler-in-go.html
++ [[http://github.com/renstrom/go-wiki][Go Wiki - A simple HTTP server rendering Markdown styled documents http://renstrom.github.io/go-wiki]]
++ [[http://github.com/cdarwin/go-koans][Go Koans]]
++ [[http://jdanger.com/build-a-web-crawler-in-go.html][Build a Web Crawler in Go]]
 + http://soryy.com/blog/2014/not-another-go-net-http-tutorial
 
 * Setup
