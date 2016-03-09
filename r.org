@@ -10,6 +10,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://learnxinyminutes.com/docs/r/][Learn X in Y minutes Where X=R]]
 + [[http://www.burns-stat.com/documents/books/the-r-inferno][The R Inferno]]
 + [[https://www.coursera.org/learn/r-programming][Coursera R Programming Course]] 
++ [[http://swirlstats.com][swirl - Learn R, in R]]
 
 * Editor Support
 + [[https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2][Announcing R Tools for Visual Studio]]
