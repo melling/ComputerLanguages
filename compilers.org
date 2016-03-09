@@ -13,6 +13,6 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://ruslanspivak.com/lsbasi-part6][Let's Build a Simple Interpreter - Part 6]]
  - [[http://ruslanspivak.com/lsbasi-part7/][Let's Build a Simple Interpreter - Part 7]]
 + http://www.jroller.com/languages/entry/python_writing_a_compiler_and
-+ https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm
++ [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
 + https://blog.gopheracademy.com/advent-2014/parsers-lexers
-+ http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/
++ [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
