@@ -12,7 +12,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://news.ycombinator.com/item?id=10785164][An Incremental Approach to Compiler Construction - HN]]
 + [[http://ruslanspivak.com/lsbasi-part6][Let's Build a Simple Interpreter - Part 6]]
  - [[http://ruslanspivak.com/lsbasi-part7/][Let's Build a Simple Interpreter - Part 7]]
-+ http://www.jroller.com/languages/entry/python_writing_a_compiler_and
++ [[http://www.jroller.com/languages/entry/python_writing_a_compiler_and][Python: Writing a Compiler and Interpreter in 160 lines of code]]
 + [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
 + https://blog.gopheracademy.com/advent-2014/parsers-lexers
 + [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
