@@ -16,3 +16,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
 + https://blog.gopheracademy.com/advent-2014/parsers-lexers
 + [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
++ [[https://github.com/rui314/8cc][A Small C Compiler]]
++ [[http://c9x.me/qcc][A Quick C Compiler]]
