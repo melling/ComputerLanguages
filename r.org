@@ -12,3 +12,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Editor Support
 + [[https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2][Announcing R Tools for Visual Studio]]
++ [[http://ess.r-project.org][Emacs Speaks Statistics (ESS)]]
++ [[https://www.rstudio.com/home/][RStudio]]
