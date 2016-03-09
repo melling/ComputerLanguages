@@ -8,3 +8,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 * Inbox
 + [[http://adv-r.had.co.nz][Advanced R by Hadley Wickham]]
 + [[https://learnxinyminutes.com/docs/r/][Learn X in Y minutes Where X=R]]
+
+
+* Editor Support
++ [[https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2][Announcing R Tools for Visual Studio]]
