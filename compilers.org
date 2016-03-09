@@ -1,0 +1,18 @@
+#+STARTUP: showall
+#+TITLE: Compilers and Interpreters
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+
+Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+
+
+* Inbox
++ [[http://c9x.me/comp-bib][Resources for Amateur Compiler Writers]]
++ [[https://news.ycombinator.com/item?id=10786842][Compilers - HN]]
++ [[https://news.ycombinator.com/item?id=10785164][Compilers - HN]]
++ [[http://ruslanspivak.com/lsbasi-part6][Let's Build a Simple Interpreter - Part 6]]
+ - [[http://ruslanspivak.com/lsbasi-part7/][Let's Build a Simple Interpreter - Part 7]]
++ http://www.jroller.com/languages/entry/python_writing_a_compiler_and
++ https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm
++ https://blog.gopheracademy.com/advent-2014/parsers-lexers
++ http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/
