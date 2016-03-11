@@ -10,3 +10,4 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 * Inbox
 
 + [[https://learnxinyminutes.com/docs/scala][Learn X in Y minutes Where X=Scala]]
++ [[http://twitter.github.io/scala_school][Scala School]]
