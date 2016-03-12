@@ -45,6 +45,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 * Libraries
 + https://github.com/hammerlab/oml
  - http://www.hammerlab.org/2015/08/11/introducing-oml-a-small-ocaml-library-for-numerical-computing/
+ - https://www.youtube.com/watch?v=czZ18YtZlaw
+  + Slides: http://rleonid.github.io/slides/oml/compose2016
 
 #+BEGIN_SRC ocaml
 
