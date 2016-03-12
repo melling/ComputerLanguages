@@ -42,6 +42,10 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
 + http://web.archive.org/web/20080410181630/http://research.microsoft.com/fsharp/manual/ml-compat.aspx
 
+* Libraries
++ https://github.com/hammerlab/oml
+ - http://www.hammerlab.org/2015/08/11/introducing-oml-a-small-ocaml-library-for-numerical-computing/
+
 #+BEGIN_SRC ocaml
 
 (* Addition *)
