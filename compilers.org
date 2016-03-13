@@ -18,5 +18,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
 + [[https://github.com/rui314/8cc][A Small C Compiler]]
 + [[http://c9x.me/qcc][A Quick C Compiler]]
-+ [[http://www.keithschwarz.com/cs143/WWW/sum2011/][CS143 Compilers]]
++ [[http://www.keithschwarz.com/cs143/WWW/sum2011/][CS143 Compilers - 2011]]
   - https://news.ycombinator.com/item?id=11277979
