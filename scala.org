@@ -9,7 +9,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Inbox
 
-+ [[https://github.com/lauris/awesome-scala][[Awesome Scala]]
++ [[https://github.com/lauris/awesome-scala][Awesome Scala]]
 + [[https://learnxinyminutes.com/docs/scala][Learn X in Y minutes Where X=Scala]]
 + [[http://twitter.github.io/scala_school][Scala School]]
 + [[http://fileadmin.cs.lth.se/scala/scala-impatient.pdf][Scala for the Impatient]] - Free part
