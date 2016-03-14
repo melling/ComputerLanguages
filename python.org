@@ -8,6 +8,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Inbox
 
++ [[https://pypi.python.org/pypi][PyPI]] - The Python Package Index
 + http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
 + http://www.dataquest.io/blog/python-vs-r
 + http://news.ycombinator.com/item?id=7727369 - Write to a Google Spreadsheet from a Python script (2009) (mattcutts.com)
