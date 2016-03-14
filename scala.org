@@ -13,4 +13,4 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://twitter.github.io/scala_school][Scala School]]
 + [[http://fileadmin.cs.lth.se/scala/scala-impatient.pdf][Scala for the Impatient]] - Free part
 + [[https://www.coursera.org/course/progfun][Functional Programming Principles in Scala]] - Coursera by Martin Odersky
-
++ [[http://danielwestheide.com/scala/neophytes.html][The Neophyte's Guide to Scala]]
