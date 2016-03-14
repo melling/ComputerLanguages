@@ -19,6 +19,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Misc
 
++ https://hackage.haskell.org - Hackage is the Haskell community's central package archive of open source software
 + http://www.haskellforall.com/2015/10/basic-haskell-examples.html
 + https://github.com/chrisdone/structured-haskell-mode
 + [[http://news.ycombinator.com/item?id=9775467][The Algebra of Algebraic data types]]
