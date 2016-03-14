@@ -21,3 +21,10 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://www.keithschwarz.com/cs143/WWW/sum2011/][CS143 Compilers - 2011]]
   - https://news.ycombinator.com/item?id=11277979
 + [[http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/][Basics of Compiler Design (Mogensen)]]
++ [[http://suif.stanford.edu/~courses/cs243/][Stanford CS243: Program Analysis and Optimization Winter 2016]]
++ [[http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt][Parsing: The Solved Problem That Isn't]]
++ [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Compiler Construction - Niklaus Wirth]]
+
+* Books
+
++ http://www.amazon.com/Compiler-Construction-Principles-Kenneth-Louden/dp/0534939724
