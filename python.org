@@ -13,6 +13,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://www.dataquest.io/blog/python-vs-r
 + http://news.ycombinator.com/item?id=7727369 - Write to a Google Spreadsheet from a Python script (2009) (mattcutts.com)
 + http://www.nltk.org
++ http://madlag.github.io/jarvis/
 + http://news.ycombinator.com/item?id=7715349 - Common Python Mistakes 
 + http://pypi.python.org/pypi/goslate
 + http://www.blog.pythonlibrary.org/2014/02/26/python-101-reading-and-writing-csv-files/
