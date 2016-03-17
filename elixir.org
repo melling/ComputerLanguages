@@ -8,6 +8,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 
 * Inbox
 
++ http://elixir-lang.org
 + https://media.pragprog.com/titles/elixir/ElixirCheat.pdf
 
 
