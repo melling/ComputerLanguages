@@ -13,8 +13,6 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://ruslanspivak.com/lsbasi-part6][Let's Build a Simple Interpreter - Part 6]]
  - [[http://ruslanspivak.com/lsbasi-part7/][Let's Build a Simple Interpreter - Part 7]]
 + [[http://www.jroller.com/languages/entry/python_writing_a_compiler_and][Python: Writing a Compiler and Interpreter in 160 lines of code]]
-+ [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
-+ https://blog.gopheracademy.com/advent-2014/parsers-lexers
 + [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
 + [[https://github.com/rui314/8cc][A Small C Compiler]]
 + [[http://c9x.me/qcc][A Quick C Compiler]]
@@ -22,8 +20,16 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
   - https://news.ycombinator.com/item?id=11277979
 + [[http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/][Basics of Compiler Design (Mogensen)]]
 + [[http://suif.stanford.edu/~courses/cs243/][Stanford CS243: Program Analysis and Optimization Winter 2016]]
-+ [[http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt][Parsing: The Solved Problem That Isn't]]
+
 + [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Compiler Construction - Niklaus Wirth]]
+
+* Parsing
++ [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
++ https://blog.gopheracademy.com/advent-2014/parsers-lexers
++ [[http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt][Parsing: The Solved Problem That Isn't]]
+
+* Optimization
++ [[http://www.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf][Scaling up Superoptimization]]
 
 * Books
 
