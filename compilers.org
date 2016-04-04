@@ -19,6 +19,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://c9x.me/qcc][A Quick C Compiler]]
 + [[https://github.com/thejameskyle/the-super-tiny-compiler][The Super Tiny Compiler]]
  - https://news.ycombinator.com/item?id=11395656
++ [[https://github.com/elfet/ultra-tiny-compiler][Ultra Tiny Compiler]]
 + [[http://www.keithschwarz.com/cs143/WWW/sum2011/][CS143 Compilers - 2011]]
   - https://news.ycombinator.com/item?id=11277979
 + [[http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/][Basics of Compiler Design (Mogensen)]]
