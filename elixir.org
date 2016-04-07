@@ -10,6 +10,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 
 + http://elixir-lang.org
 + https://media.pragprog.com/titles/elixir/ElixirCheat.pdf
++ https://sameroom.io/blog/why-erlang-matters/
 + Phoenix Framework
  - http://www.phoenixframework.org/docs/overview
  - http://phoenix.thefirehoseproject.com/1.html
