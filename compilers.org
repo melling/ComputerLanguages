@@ -24,7 +24,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
   - https://news.ycombinator.com/item?id=11277979
 + [[http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/][Basics of Compiler Design (Mogensen)]]
 + [[http://suif.stanford.edu/~courses/cs243/][Stanford CS243: Program Analysis and Optimization Winter 2016]]
-
++ [[http://stanislaw.github.io/2016/04/02/flex-and-bison-tips-for-beginners.html][Flex and Bison: tips for beginners]]
 + [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Compiler Construction - Niklaus Wirth]]
 
 * Parsing
