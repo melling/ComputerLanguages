@@ -39,6 +39,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
  - http://news.ycombinator.com/item?id=10417521
 + https://www.reddit.com/r/ocaml/comments/4b2oot/dealing_with_strings_in_ocaml_for_a_beginner/
 + https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html
++ https://github.com/inhabitedtype/ocaml-aws - Generated OCaml bindings for Amazon Web Services
 
 * F#
 + [[http://jj09.net/getting-started-with-fsharp/][Getting started with F#]]
