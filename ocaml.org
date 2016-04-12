@@ -38,6 +38,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://hyegar.com/2015/10/20/so-youre-learning-ocaml/index.html][So you're learning OCaml]]
  - http://news.ycombinator.com/item?id=10417521
 + https://www.reddit.com/r/ocaml/comments/4b2oot/dealing_with_strings_in_ocaml_for_a_beginner/
++ https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html
 
 * F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
