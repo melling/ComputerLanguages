@@ -40,7 +40,9 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + https://www.reddit.com/r/ocaml/comments/4b2oot/dealing_with_strings_in_ocaml_for_a_beginner/
 + https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html
 
-* F# Differences
+* F#
++ [[http://jj09.net/getting-started-with-fsharp/][Getting started with F#]]
+** F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
 + http://web.archive.org/web/20080410181630/http://research.microsoft.com/fsharp/manual/ml-compat.aspx
 
