@@ -29,7 +29,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://nicolasmerouze.com/build-web-framework-golang/
 + [[http://jdanger.com/build-a-web-crawler-in-go.html][Build a Web Crawler in Go]]
 + http://soryy.com/blog/2014/not-another-go-net-http-tutorial
-+ https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
++ [[https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker][How To Deploy a Go Web Application with Docker]]
 
 * Inbox
 
