@@ -14,6 +14,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 + Phoenix Framework
  - http://www.phoenixframework.org/docs/overview
  - http://phoenix.thefirehoseproject.com/1.html
++ [[https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers][Elixir is for programmers]]
 
 * Books
 + https://pragprog.com/book/elixir12/programming-elixir-1-2
