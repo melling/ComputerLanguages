@@ -43,6 +43,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * F#
 + [[http://jj09.net/getting-started-with-fsharp/][Getting started with F#]]
++ https://www.reddit.com/r/fsharp/comments/4ggl1c/getting_started_with_f_via_the_linux_command_line/
+
 ** F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
 + http://web.archive.org/web/20080410181630/http://research.microsoft.com/fsharp/manual/ml-compat.aspx
