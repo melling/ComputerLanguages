@@ -16,5 +16,15 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
  - http://phoenix.thefirehoseproject.com/1.html
 + [[https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers][Elixir is for programmers]]
 
+* Editor Support
++ Atom
+ - https://github.com/msaraiva/atom-elixir
++ Emacs
+ - https://github.com/tonini/alchemist.el
++ IntelliJ
+ - https://github.com/KronicDeth/intellij-elixir
++ vim
+ - https://github.com/carlhuda/janus
+
 * Books
 + https://pragprog.com/book/elixir12/programming-elixir-1-2
