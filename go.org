@@ -33,6 +33,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Inbox
 
++ [[https://machiel.me/post/time-in-go-a-primer/][Time in Go: A primer]]
 + http://news.ycombinator.com/item?id=10395694 - Statistics package
 + [[https://blog.felixangell.com/an-introduction-to-llvm-in-go/][An introduction to LLVM in Go]]
 + http://blog.ksred.me/post/learning-golang-stock-notifier
