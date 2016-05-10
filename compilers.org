@@ -40,3 +40,4 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 + http://www.amazon.com/Compiler-Construction-Principles-Kenneth-Louden/dp/0534939724
 + http://www.springer.com/fr/book/9780387202488 - Parsing Techniques
++ [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Theory and Techniques of Compiler Construction]] - Niklaus Wirth - Free PDF
