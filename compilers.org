@@ -26,6 +26,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/][Basics of Compiler Design (Mogensen)]]
 + [[http://suif.stanford.edu/~courses/cs243/][Stanford CS243: Program Analysis and Optimization Winter 2016]]
 + [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Compiler Construction - Niklaus Wirth]]
++ [[http://ssabook.gforge.inria.fr/latest/book.pdf][SSA-based Compiler Design]]
++ https://gist.github.com/mamcx/e1743571b9a1ea163a7f9f07aa6a8ae2 - Lista de recursos sobre crear lenguajes de programacion
 
 * Parsing
 + [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
