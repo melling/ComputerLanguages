@@ -7,6 +7,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 
 * Inbox
++ [[https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction][Anders Hejlsberg on Modern Compiler Construction]]
+ - https://news.ycombinator.com/item?id=11685317
 + http://squanch.org/writing-a-compiler-in-go/
 + [[http://c9x.me/comp-bib/][Resources for Amateur Compiler Writers]]
 + [[https://news.ycombinator.com/item?id=10786842][Want to Write a Compiler? Read These Two Papers - HN]]
