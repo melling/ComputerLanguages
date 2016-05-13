@@ -13,6 +13,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://swirlstats.com][swirl - Learn R, in R]]
 + [[http://tryr.codeschool.com][Try R by Code School]]
 + [[http://r4ds.had.co.nz][R for Data Science]]
++ [[http://www.burns-stat.com/documents/tutorials/impatient-r/][Impatient R]]
 
 * Editor Support
 + [[https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2][Announcing R Tools for Visual Studio]]
