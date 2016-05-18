@@ -15,6 +15,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
  - http://www.phoenixframework.org/docs/overview
  - http://phoenix.thefirehoseproject.com/1.html
 + [[https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers][Elixir is for programmers]]
++ [[https://elixir.libhunt.com][Awesome Elixir]]
 
 * Editor Support
 + Atom
