@@ -9,6 +9,9 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 * Inbox
 + [[http://research.microsoft.com/en-us/um/people/simonpj/Papers/papers.html][Simon Peyton Jones: papers]]
 
+* Editor Support 
++ [[https://gist.github.com/androidfred/a2bef54310c847f263343c529d32acd8][Haskell, Stack and Intellij IDEA IDE setup tutorial how to get started]]
+
 * Tutorials
 
 + http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html
