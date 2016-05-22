@@ -30,6 +30,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][Compiler Construction - Niklaus Wirth]]
 + [[http://ssabook.gforge.inria.fr/latest/book.pdf][SSA-based Compiler Design]]
 + https://gist.github.com/mamcx/e1743571b9a1ea163a7f9f07aa6a8ae2 - Lista de recursos sobre crear lenguajes de programacion
++ [[http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/][DIY: Make Your Own Programming Language]]
+ - https://news.ycombinator.com/item?id=11748484
 
 * Parsing
 + [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
