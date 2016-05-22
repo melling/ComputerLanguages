@@ -15,7 +15,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://news.ycombinator.com/item?id=10785164][An Incremental Approach to Compiler Construction - HN]]
 + [[http://artagnon.com/inside-a-register-allocator][Inside a register allocator]]
  - https://news.ycombinator.com/item?id=11365154
-+ Let's Build a Simple Interpreter: [[https://ruslanspivak.com/lsbasi-part1/][Part #1]] | [[https://ruslanspivak.com/lsbasi-part2/][Part #2]] |[[https://ruslanspivak.com/lsbasi-part3/][Part #3]] | [[https://ruslanspivak.com/lsbasi-part4/][Part #4]] | [[https://ruslanspivak.com/lsbasi-part5/][Part #5]] | [[http://ruslanspivak.com/lsbasi-part6][Part #6]] | [[http://ruslanspivak.com/lsbasi-part7/][Part 7]]
++ Let's Build a Simple Interpreter: [[https://ruslanspivak.com/lsbasi-part1/][Part #1]] | [[https://ruslanspivak.com/lsbasi-part2/][Part #2]] |[[https://ruslanspivak.com/lsbasi-part3/][Part #3]] | [[https://ruslanspivak.com/lsbasi-part4/][Part #4]] | [[https://ruslanspivak.com/lsbasi-part5/][Part #5]] | [[http://ruslanspivak.com/lsbasi-part6][Part #6]] | [[http://ruslanspivak.com/lsbasi-part7/][Part 7]] | [[https://ruslanspivak.com/lsbasi-part8/][Part 8]] | [[https://ruslanspivak.com/lsbasi-part9/][Part 9]]
 + [[http://www.jroller.com/languages/entry/python_writing_a_compiler_and][Python: Writing a Compiler and Interpreter in 160 lines of code]]
 + [[http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/][Implementing a programming language in D: Lexical Analysis]]
 + [[https://github.com/rui314/8cc][A Small C Compiler]]
