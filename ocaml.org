@@ -16,6 +16,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Inbox
 
++ [[https://ocaml.org/learn/tutorials/99problems.html][99 Problems (solved) in OCaml]]
 + https://www.reddit.com/r/ocaml/comments/49zzg6/oml_machine_learning_in_ocaml_composeconf_talk
 + http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective
  - http://roscidus.com/blog/blog/2014/02/13/ocaml-what-you-gain/
