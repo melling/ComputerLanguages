@@ -22,7 +22,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://www.kronosnotebook.com/haskell
 
 * Misc
-
++ [[https://github.com/shekhargulati/99-problems/tree/master/haskell][Ninety-Nine Problems in Haskell]]
 + https://hackage.haskell.org - Hackage is the Haskell community's central package archive of open source software
 + http://www.haskellforall.com/2015/10/basic-haskell-examples.html
 + https://github.com/chrisdone/structured-haskell-mode
