@@ -40,3 +40,4 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://www.reddit.com/r/programming/comments/2u6il8/use_haskell_for_shell_scripting
 + http://www.reddit.com/r/haskell/comments/2r43q0/kronos_haskell_notebook_mac_app/
 + http://www.haskell.org/documentation
++ http://www.seas.upenn.edu/~cis194/
