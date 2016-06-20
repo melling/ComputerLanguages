@@ -29,6 +29,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
  - https://news.ycombinator.com/item?id=11748484
 + [[http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/][So You Want to Be a (Compiler) Wizard]]
  - https://news.ycombinator.com/item?id=11777631
++ [[http://compilers.iecc.com/crenshaw/][Let's Build a Compiler - Jack Crenshaw]]
 
 * Compilers
 + https://github.com/andrewchambers/c
