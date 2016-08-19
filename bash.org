@@ -37,3 +37,4 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://news.ycombinator.com/item?id=5307491
 + http://news.ycombinator.com/item?id=4974197
 + http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash
++ http://superuser.com/questions/90196/case-insensitive-tab-completion-in-bash
