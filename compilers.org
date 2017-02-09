@@ -7,6 +7,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 
 * Inbox
++ [[http://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-intro.html?tiny][Write your own compiler - Introduction]]
+ - https://news.ycombinator.com/item?id=13608810
 + [[http://lisperator.net/pltut/][How to implement a programming language in JavaScript]]
  - https://news.ycombinator.com/item?id=11998581
 + [[https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction][Anders Hejlsberg on Modern Compiler Construction]]
