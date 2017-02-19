@@ -1,0 +1,24 @@
+#+STARTUP: showall
+#+TITLE: Octave
+#+AUTHOR: http://h4labs.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+
+Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixir.org][Elixir]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] |  [[file:octave.org][Octave]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+
+* Inbox
++ https://www.chemie.fu-berlin.de/chemnet/use/info/octave/octave_toc.html
++ http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-octave-matlab.html
+
+#+BEGIN_SRC octave
+
+#+END_SRC
+
+#+BEGIN_SRC octave
+% No parameters
+% Invoke: hello() or hello
+%
+function hello()
+  printf("Hello\n");
+
+end
+#+END_SRC
