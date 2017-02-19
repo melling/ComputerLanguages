@@ -40,6 +40,22 @@ function hello()
   printf("Hello\n");
 
 end
+
+% Two parameters
+% Invoke: mymax(1,2)
+%
+function mysum(x,y)
+  a = x + y
+  printf("Sum:%d\n", a);
+end
+
+% Two parameters
+% Invoke: mysum(1,2)
+%
+function a = mysum(x,y)
+  a = x + y
+
+end
 #+END_SRC
 
 ** Load and Save Data
