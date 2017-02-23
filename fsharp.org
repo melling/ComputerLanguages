@@ -9,4 +9,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 * Inbox
 + [[https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour][Tour of F#]]
  - https://news.ycombinator.com/item?id=13708453
+ + [[https://notebooks.azure.com/library/samples/html/FSharp%20for%20Azure%20Notebooks.ipynb][F# for Azure Notebooks]]
  
