@@ -33,7 +33,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker][How To Deploy a Go Web Application with Docker]]
 
 * Inbox
-
++ [[http://divan.github.io/posts/go_concurrency_visualize/][Visualizing Concurrency in Go]]
+ - https://news.ycombinator.com/item?id=14224118
 + [[https://machiel.me/post/time-in-go-a-primer/][Time in Go: A primer]]
 + [[http://golang.rakyll.org/go-tool-flags/][Go tooling essentials]]
 + http://news.ycombinator.com/item?id=10395694 - Statistics package
