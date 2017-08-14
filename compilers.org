@@ -7,6 +7,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 
 * Inbox
++ https://nicoleorchard.com/blog/compilers
+ - https://news.ycombinator.com/item?id=15005031
 + [[http://www.craftinginterpreters.com/parsing-expressions.html][Parsing Expressions]]
  - https://news.ycombinator.com/item?id=13914218
 + [[https://github.com/namin/inc][Step-by-step development of a Scheme-to-x86 compiler]]
