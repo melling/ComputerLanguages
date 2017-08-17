@@ -7,6 +7,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 
 * Inbox
++ https://francisstokes.wordpress.com/2017/08/16/programming-language-from-scratch/
+ - https://news.ycombinator.com/item?id=15034089
 + https://nicoleorchard.com/blog/compilers
  - https://news.ycombinator.com/item?id=15005031
 + [[http://www.craftinginterpreters.com/parsing-expressions.html][Parsing Expressions]]
