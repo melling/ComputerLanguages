@@ -7,6 +7,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 
 * Inbox
++ https://github.com/alexfru/SmallerC
+ - https://news.ycombinator.com/item?id=15463738
 + http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm
  - https://news.ycombinator.com/item?id=15096881
 + https://francisstokes.wordpress.com/2017/08/16/programming-language-from-scratch/
