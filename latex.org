@@ -9,3 +9,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 * Inbox
 + [[https://github.com/VoLuong/Master-Latex-in-minutes][Master LATEX in Minutes]]
  - https://news.ycombinator.com/item?id=12829799
+
+* Cv Templates
++ https://olivierpieters.be/projects/limecv
+ - https://news.ycombinator.com/item?id=15639339
