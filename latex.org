@@ -10,6 +10,8 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 + [[https://github.com/VoLuong/Master-Latex-in-minutes][Master LATEX in Minutes]]
  - https://news.ycombinator.com/item?id=12829799
 
-* Cv Templates
+* CV Templates
 + https://olivierpieters.be/projects/limecv
  - https://news.ycombinator.com/item?id=15639339
++ https://github.com/posquit0/Awesome-CV
++ https://texblog.org/2012/04/25/writing-a-cv-in-latex/
