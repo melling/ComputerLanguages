@@ -56,25 +56,25 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
  - https://www.youtube.com/watch?v=czZ18YtZlaw
   + Slides: http://rleonid.github.io/slides/oml/compose2016
 
-#+BEGIN_SRC ocaml
+``` ocaml
 
 (* Addition *)
 
 1 + 1
 
-#+END_SRC
+```
 
 
 * Variables
 
-#+BEGIN_SRC OCaml 
+``` OCaml 
 let pi = 3.1416;;
 
 let () = print_endline "Hello, World!"
-#+END_SRC 
+``` 
 
 
-#+BEGIN_SRC OCaml 
+``` OCaml 
 toplevel
 
 let average a b =
@@ -84,18 +84,18 @@ average;;
 let rec // recursion
 
 my_ref := 100;
-#+END_SRC 
+``` 
 
 * Functions
 
 A function always has exactly one parameter, and returns one result.
-#+BEGIN_SRC OCaml 
+``` OCaml 
 (* In this case, the one argument is a tuple, and the one result is a tuple. *)
 let swap (x, y) = (y, x);;
-#+END_SRC 
+``` 
 
 
-#+BEGIN_SRC OCaml 
+``` OCaml 
 let sum (x, y) = x + y;;
 sum(3, 5);;
 let max (x, y) = if x > y then x else y;;
@@ -103,26 +103,26 @@ max(9, 5)
 
 let hi () =
   print_string "hello\n";;
-#+END_SRC
+```
 
 
-#+BEGIN_SRC oCaml
+``` oCaml
 (*
 Here, the one argument is the unit, (), which is a value--it is not syntax to indicate an empty parameter list. Similarly, the unit is returned as a result.
 *)
 print_newline ();;
-#+END_SRC 
+``` 
 
 * Include Files
-#+BEGIN_SRC OCaml 
+``` OCaml 
 use "myFile.sml"
-#+END_SRC 
+``` 
 The most common functions are in the "Pervasives module," which means you don't have to do anything special to use them
 
-#+BEGIN_SRC OCaml 
+``` OCaml 
 open String;; 
 length "hello";;
-#+END_SRC 
+``` 
 
 Identifiers must begin with a lowercase letter or underscore, and may contain letters, digits, underscores, and single quotes.
 
@@ -132,23 +132,23 @@ Only the :: operator (LISP cons) and @ operator (list concatenation) can be used
 
 ** List Operations
 
-#+BEGIN_SRC OCaml 
+``` OCaml 
 5 :: [6; 7]
 [5] @ [6; 7]
 List.nth [3; 5; 7] 2
 List.rev [1; 2; 3]
-#+END_SRC 
+``` 
 
 * Tuples
-#+BEGIN_SRC OCaml 
+``` OCaml 
 (5, "hello", ~16)
-#+END_SRC
+```
 
 ** Tuple Operations
-#+BEGIN_SRC OCaml
+``` OCaml
 open Char;;
 Char.uppercase 'a'
-#+END_SRC 
+``` 
 
 * Exceptions
 
@@ -157,7 +157,7 @@ The name of an exception must begin with a capital letter.
 You can declare new types of exceptions, with or without a parameter
 
 * Comments
-#+BEGIN_SRC ocaml
+``` ocaml
 (* One line *)
 (* 
  * Multi-line
@@ -167,27 +167,27 @@ You can declare new types of exceptions, with or without a parameter
  * (* Embedded *)
  *)
 
-#+END_SRC
+```
 
 * opam Package Manager
 + http://opam.ocaml.org/doc/Install.html
  - brew install opam
-#+BEGIN_SRC ocaml
+``` ocaml
 
-#+END_SRC
+```
 
-#+BEGIN_SRC ocaml
+``` ocaml
 
-#+END_SRC
+```
 
-#+BEGIN_SRC ocaml
+``` ocaml
 
-#+END_SRC
+```
 
-#+BEGIN_SRC ocaml
+``` ocaml
 
-#+END_SRC
+```
 
-#+BEGIN_SRC ocaml
+``` ocaml
 
-#+END_SRC
+```

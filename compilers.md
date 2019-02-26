@@ -3,10 +3,11 @@
 #+AUTHOR: http://h4labs.com
 #+EMAIL: melling@h4labs.com
 
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 
 ## Inbox
+
 + https://github.com/igorkulman/SwiftPascalInterpreter
 + [[https://norasandler.com/2017/12/05/Write-a-Compiler-2.html][Writing a C Compiler, Part 2]]
  - https://news.ycombinator.com/item?id=15861788
@@ -55,7 +56,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://github.com/zserge/partcl][ParTcl - a micro Tcl implementation]]
  - https://news.ycombinator.com/item?id=13675166
 
-* Compilers
+## Compilers
 + https://github.com/andrewchambers/c
 + [[https://github.com/rui314/8cc][A Small C Compiler]]
 + [[http://c9x.me/qcc][A Quick C Compiler]]
@@ -65,13 +66,13 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + https://github.com/rcorcs/rcc
  - https://news.ycombinator.com/item?id=11903674
 
-* Parsing
+## Parsing
 + [[https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm][Parsing Expressions by Recursive Descent]]
 + https://blog.gopheracademy.com/advent-2014/parsers-lexers
 + [[http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt][Parsing: The Solved Problem That Isn't]]
 + [[http://stanislaw.github.io/2016/04/02/flex-and-bison-tips-for-beginners.html][Flex and Bison: tips for beginners]]
 
-* Optimization
+## Optimization
 + [[http://www.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf][Scaling up Superoptimization]]
 
 ## Books

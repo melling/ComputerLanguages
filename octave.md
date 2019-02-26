@@ -10,29 +10,29 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 + http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-octave-matlab.html
 
 ## Misc Commands
-#+BEGIN_SRC octave
+``` octave
 % Comments begin with percent sign: %
 PS1('>> ') % Change prompt
 pwd % Current directory
 cd '/tmp' % Change working directory; Will load .m functions from here
 help help
 help plot
-#+END_SRC
+```
 
 * Language Introduction
 
 ** If statement
-#+BEGIN_SRC octave
+``` octave
 
-#+END_SRC
+```
 
 ** For loop
-#+BEGIN_SRC octave
+``` octave
 
-#+END_SRC
+```
 
 ** Simple Function
-#+BEGIN_SRC octave
+``` octave
 % No parameters
 % Invoke: hello() or hello
 %
@@ -56,40 +56,40 @@ function a = mysum(x,y)
   a = x + y
 
 end
-#+END_SRC
+```
 
 ** Load and Save Data
-#+BEGIN_SRC octave
+``` octave
 
-#+END_SRC
+```
 
 ** Plot statement
-#+BEGIN_SRC octave
+``` octave
 
-#+END_SRC
+```
 
 ** Matrices
-#+BEGIN_SRC octave
+``` octave
 A = [1 2; 3 4; 5 6];
 B = [1 2 3; 4 5 6];
 zeros(1,3) % [0 0 0 0]
-#+END_SRC
+```
 
 A = 
 |1| 2|
 |3|4|
 |5|6|
-#+BEGIN_SRC octave
+``` octave
 A = [1 2; 3 4; 5 6];
-#+END_SRC
+```
 
 B=
 |1|2|3
 |4|5|6
-#+BEGIN_SRC octave
+``` octave
 B = [1 2 3; 4 5 6];
-#+END_SRC
+```
 *** Identity Matrix
-#+BEGIN_SRC octave
+``` octave
 eye(4) % 4x4 identity matrix
-#+END_SRC
+```

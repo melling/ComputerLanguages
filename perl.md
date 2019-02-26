@@ -9,13 +9,13 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Variables
 
-#+BEGIN_SRC perl
+``` perl
 
 my $str = "hello";
 my $pi = 3.14;
 my num = 42;
 
-#+END_SRC
+```
 
 * Arrays
 
@@ -24,7 +24,7 @@ my num = 42;
 
 * Functions
 
-#+BEGIN_SRC perl
+``` perl
 sub add {
 	my($var1, $var2) = @_;
 
@@ -32,4 +32,4 @@ sub add {
 }
 
 my $result = add(2,3);
-#+END_SRC
+```

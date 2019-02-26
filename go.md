@@ -1,24 +1,23 @@
-#+STARTUP: showall
-#+TITLE: Go
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Go
 
-#+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | [[file:sql.org][SQL]]
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
-* The Short List
+## The Short List
+
 + [[https://github.com/avelino/awesome-go][Awesome Go]]
 + [[https://github.com/arschles/go-in-5-minutes][Go in 5 Minutes]]
  - http://www.goin5minutes.com/screencasts/index.html
 + [[https://gobyexample.com][Go by Example]]
 
-* Editor/IDE Support
+## Editor/IDE Support
+
 + [[https://github.com/Microsoft/vscode-go][Visual Studio Code Plugin]]
 + https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
 + http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
 + http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
 
-* Web
+## Web
+
 + [[http://rrmartins.herokuapp.com/blog/2016/05/12/rss-collector-in-ruby-and-go/][RSS Collector in Ruby and Go]]
 + [[https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html][Building Web Apps in Go]]
 + [[https://mholt.github.io/curl-to-go][Curl to Go]]
@@ -66,13 +65,14 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 <pre class='org-code'>
 #+END_HTML
 
+```sh
 export GOPATH=$HOME
 
 go get github.com/mattn/go-sqlite3
 go get github.com/gorilla/mux
 go get github.com/gorilla/pat
 go get github.com/go-sql-driver/mysql; # http://github.com/go-sql-driver/mysql
-
+```
 ---
 
 golang-book.com
@@ -80,15 +80,9 @@ gpm
 godep
 goop
 
-#+BEGIN_HTML
-</pre>
-#+END_HTML
 
 
 ## Tutorials
-#+BEGIN_HTML
-<pre class='org-code'>
-#+END_HTML
 
 http://www.digitalocean.com/company/blog/get-your-development-team-started-with-go/
 
@@ -135,27 +129,19 @@ go tool pprof in 1.4
 llgo 
 
 http://github.com/smartystreets/mafsa
-#+BEGIN_HTML
-</pre>
-#+END_HTML
 
-<h2>Emacs and Go</h2>
-#+BEGIN_HTML
-<pre class='org-code'>
-#+END_HTML
+### Emacs and Go
+
 http://tleyden.github.io/blog/2014/05/22/configure-emacs-as-a-go-editor-from-scratch/
 http://github.com/dominikh/go-mode.el
 http://medium.com/@olebedev/live-code-reloading-for-golang-web-projects-in-19-lines-8b2e8777b1ea
 http://news.ycombinator.com/item?id=8772636
-#+BEGIN_HTML
-</pre>
-#+END_HTML
 
 + http://news.ycombinator.com/item?id=8791935
 + http://news.ycombinator.com/item?id=8797590
 
-* Simple Crawler
-#+BEGIN_SRC
+### Simple Crawler
+```
 package main
 
 import (
@@ -184,4 +170,4 @@ func crawl() {
 func main() {
 	crawl()
 }
-#+END_SRC
+```

@@ -1,12 +1,14 @@
 # Latex and Tex
 
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixir.org][Elixir]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:latex.org][Latex]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
+
 + [[https://github.com/VoLuong/Master-Latex-in-minutes][Master LATEX in Minutes]]
  - https://news.ycombinator.com/item?id=12829799
 
 ## CV Templates
+
 + https://olivierpieters.be/projects/limecv
  - https://news.ycombinator.com/item?id=15639339
 + https://github.com/posquit0/Awesome-CV
