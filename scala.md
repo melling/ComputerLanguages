@@ -7,7 +7,7 @@
 
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
+## Inbox
 
 + [[https://github.com/lauris/awesome-scala][Awesome Scala]]
 + [[https://learnxinyminutes.com/docs/scala][Learn X in Y minutes Where X=Scala]]

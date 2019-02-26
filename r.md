@@ -5,7 +5,7 @@
 
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
+## Inbox
 + [[https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html][Introduction to R Programming]]
  - https://news.ycombinator.com/item?id=15868595
 + [[http://www.statmethods.net/r-tutorial/index.html][R Tutorial]]

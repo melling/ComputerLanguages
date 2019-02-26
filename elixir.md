@@ -6,7 +6,7 @@
 #+INCLUDE: "dev_menu.org"
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixir.org][Elixir]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
+## Inbox
 
 + http://elixir-lang.org
 + https://media.pragprog.com/titles/elixir/ElixirCheat.pdf
@@ -17,7 +17,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 + [[https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers][Elixir is for programmers]]
 + [[https://elixir.libhunt.com][Awesome Elixir]]
 
-* Editor Support
+## Editor Support
 + Atom
  - https://github.com/msaraiva/atom-elixir
 + Emacs
@@ -27,5 +27,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixi
 + vim
  - https://github.com/carlhuda/janus
 
-* Books
+## Books
 + https://pragprog.com/book/elixir12/programming-elixir-1-2

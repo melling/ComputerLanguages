@@ -1,10 +1,7 @@
-#+STARTUP: showall
-#+TITLE: Bash
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Bash
 
-#+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+
 
 + http://xmodulo.com/better-alternatives-basic-command-line-utilities.html
 + http://github.com/revans/bash-it
@@ -12,14 +9,14 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://pgas.freeshell.org/shell/bash-ido][Bash ido]]
 
 
-#+BEGIN_EXAMPLE
+```
   !^ - the first argument from the previous command
   !$ - the last argument from the previous command
   !* - all of the arguments from the previous command
   !! - the entire previous command
-#+END_EXAMPLE
+```
 
-* INBOX
+## Inbox
 + http://github.com/x0054/hyperjump
  - http://news.ycombinator.com/item?id=9323135
 + http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/

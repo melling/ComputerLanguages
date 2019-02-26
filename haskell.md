@@ -1,19 +1,16 @@
-#+STARTUP: showall
-#+TITLE: Haskell
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Haskell
 
-#+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | [[file:sql.org][SQL]]
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
-* Inbox
+
+## Inbox
 + [[http://research.microsoft.com/en-us/um/people/simonpj/Papers/papers.html][Simon Peyton Jones: papers]]
 + https://github.com/bitemyapp/learnhaskell
 + [[https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/][Four months with Haskell]]
 * Editor Support 
 + [[https://gist.github.com/androidfred/a2bef54310c847f263343c529d32acd8][Haskell, Stack and Intellij IDEA IDE setup tutorial how to get started]]
 
-* Tutorials
+## Tutorials
 
 + http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html
 + http://news.ycombinator.com/item?id=9830431
@@ -22,7 +19,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://news.ycombinator.com/item?id=9003898 - Learn Physics by Programming in Haskell [pdf]
 + http://www.kronosnotebook.com/haskell
 
-* Misc
+## Misc
 + [[https://github.com/shekhargulati/99-problems/tree/master/haskell][Ninety-Nine Problems in Haskell]]
 + https://hackage.haskell.org - Hackage is the Haskell community's central package archive of open source software
 + http://www.haskellforall.com/2015/10/basic-haskell-examples.html
@@ -42,5 +39,5 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://www.haskell.org/documentation
 + http://www.seas.upenn.edu/~cis194/
 
-* Monads
+## Monads
 + [[https://www.futurelearn.com/courses/functional-programming-haskell/1/steps/108529][Monad metaphors]]

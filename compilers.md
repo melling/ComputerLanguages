@@ -6,7 +6,7 @@
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
 
-* Inbox
+## Inbox
 + https://github.com/igorkulman/SwiftPascalInterpreter
 + [[https://norasandler.com/2017/12/05/Write-a-Compiler-2.html][Writing a C Compiler, Part 2]]
  - https://news.ycombinator.com/item?id=15861788
@@ -74,7 +74,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 * Optimization
 + [[http://www.eecs.berkeley.edu/~mangpo/www/papers/lens-asplos16.pdf][Scaling up Superoptimization]]
 
-* Books
+## Books
 
 + http://www.amazon.com/Compiler-Construction-Principles-Kenneth-Louden/dp/0534939724
 + http://www.springer.com/fr/book/9780387202488 - Parsing Techniques

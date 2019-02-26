@@ -5,11 +5,11 @@
 
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixir.org][Elixir]] | [[file:fsharp.org][F#]] |[[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] |  [[file:octave.org][Octave]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
 
-* Inbox
+## Inbox
 + https://www.chemie.fu-berlin.de/chemnet/use/info/octave/octave_toc.html
 + http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-octave-matlab.html
 
-* Misc Commands
+## Misc Commands
 #+BEGIN_SRC octave
 % Comments begin with percent sign: %
 PS1('>> ') % Change prompt

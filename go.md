@@ -32,7 +32,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://soryy.com/blog/2014/not-another-go-net-http-tutorial
 + [[https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker][How To Deploy a Go Web Application with Docker]]
 
-* Inbox
+## Inbox
 + [[http://divan.github.io/posts/go_concurrency_visualize/][Visualizing Concurrency in Go]]
  - https://news.ycombinator.com/item?id=14224118
 + [[https://machiel.me/post/time-in-go-a-primer/][Time in Go: A primer]]
@@ -85,7 +85,7 @@ goop
 #+END_HTML
 
 
-* Tutorials
+## Tutorials
 #+BEGIN_HTML
 <pre class='org-code'>
 #+END_HTML

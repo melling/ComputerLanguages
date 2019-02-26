@@ -14,7 +14,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1][33 Learning oCaml videos]]
 + [[https://ocaml.org][Official OCaml Site]]
 
-* Inbox
+## Inbox
 + [[https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html][ML for the Working Programmer, 2nd Edition]]
 + [[https://ocaml.org/learn/tutorials/99problems.html][99 Problems (solved) in OCaml]]
 + https://www.reddit.com/r/ocaml/comments/49zzg6/oml_machine_learning_in_ocaml_composeconf_talk

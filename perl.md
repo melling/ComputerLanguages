@@ -5,7 +5,7 @@
 
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | [[file:sql.org][SQL]]
 
-* Inbox
+## Inbox
 
 * Variables
 

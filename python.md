@@ -6,7 +6,7 @@
 #+INCLUDE: "dev_menu.org"
 Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | [[file:sql.org][SQL]] 
 
-* Inbox
+## Inbox
 
 + [[https://pypi.python.org/pypi][PyPI]] - The Python Package Index
 + http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
@@ -24,13 +24,13 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://www.marinamele.com/taskbuster-django-tutorial
 
 
-#+BEGIN_Example
+```
 
 python3 -m http.server --cgi 8000
 
-#+END_EXAMPLE
+```
 
-#+BEGIN_Example
+```
 $ cd /home/somedir
 $ python -m SimpleHTTPServer
 
@@ -76,9 +76,9 @@ sa = httpd.socket.getsockname()
 print "Serving HTTP on", sa[0], "port", sa[1], "..."
 httpd.serve_forever()
 
-#+END_EXAMPLE
+```
 
-#+BEGIN_Example
+```
 
 http://stackoverflow.com/questions/101268/hidden-features-of-python
 
@@ -107,4 +107,4 @@ http://effbot.org/zone/element.htm
 Django
 http://uswaretech.com/blog/2010/01/doing-things-with-django-forms/
 
-#+END_EXAMPLE
+```
