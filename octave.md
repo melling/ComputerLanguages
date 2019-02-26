@@ -1,16 +1,14 @@
-#+STARTUP: showall
-#+TITLE: Octave
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Octave
 
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:elixir.org][Elixir]] | [[file:fsharp.org][F#]] |[[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] |  [[file:octave.org][Octave]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 + https://www.chemie.fu-berlin.de/chemnet/use/info/octave/octave_toc.html
 + http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-octave-matlab.html
 
 ## Misc Commands
-``` octave
+```octave
 % Comments begin with percent sign: %
 PS1('>> ') % Change prompt
 pwd % Current directory
@@ -22,17 +20,17 @@ help plot
 * Language Introduction
 
 ** If statement
-``` octave
+```octave
 
 ```
 
 ** For loop
-``` octave
+```octave
 
 ```
 
 ** Simple Function
-``` octave
+```octave
 % No parameters
 % Invoke: hello() or hello
 %
@@ -59,17 +57,17 @@ end
 ```
 
 ** Load and Save Data
-``` octave
+```octave
 
 ```
 
 ** Plot statement
-``` octave
+```octave
 
 ```
 
 ** Matrices
-``` octave
+```octave
 A = [1 2; 3 4; 5 6];
 B = [1 2 3; 4 5 6];
 zeros(1,3) % [0 0 0 0]
@@ -79,17 +77,17 @@ A =
 |1| 2|
 |3|4|
 |5|6|
-``` octave
+```octave
 A = [1 2; 3 4; 5 6];
 ```
 
 B=
 |1|2|3
 |4|5|6
-``` octave
+```octave
 B = [1 2 3; 4 5 6];
 ```
 *** Identity Matrix
-``` octave
+```octave
 eye(4) % 4x4 identity matrix
 ```

@@ -1,12 +1,8 @@
-#+STARTUP: showall
-#+TITLE: OCaml
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# OCaml
 
-#+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]]  | [[file:sql.org][SQL]]
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
-* The Short List 
+## The Short List 
 + [[https://try.ocamlpro.com][Web REPL]]
 + [[http://www.csc.villanova.edu/~dmatusze/resources/ocaml/ocaml.html][A Concise Introduction to Objective Caml]]
 + [[https://github.com/rizo/awesome-ocaml][Awesome OCaml: A curated collection of awesome OCaml tools, frameworks, libraries and articles]]
@@ -42,21 +38,21 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + https://michipili.github.io/essay/2016/04/11/ocaml-on-operations.html
 + https://github.com/inhabitedtype/ocaml-aws - Generated OCaml bindings for Amazon Web Services
 
-* F#
+## F#
 + [[http://jj09.net/getting-started-with-fsharp/][Getting started with F#]]
 + https://www.reddit.com/r/fsharp/comments/4ggl1c/getting_started_with_f_via_the_linux_command_line/
 
-** F# Differences
+### F# Differences
 + http://stackoverflow.com/questions/179492/f-changes-to-ocaml
 + http://web.archive.org/web/20080410181630/http://research.microsoft.com/fsharp/manual/ml-compat.aspx
 
-* Libraries
+## Libraries
 + https://github.com/hammerlab/oml
  - http://www.hammerlab.org/2015/08/11/introducing-oml-a-small-ocaml-library-for-numerical-computing/
  - https://www.youtube.com/watch?v=czZ18YtZlaw
   + Slides: http://rleonid.github.io/slides/oml/compose2016
 
-``` ocaml
+```ocaml
 
 (* Addition *)
 
@@ -67,14 +63,14 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 
 * Variables
 
-``` OCaml 
+```ocaml 
 let pi = 3.1416;;
 
 let () = print_endline "Hello, World!"
 ``` 
 
 
-``` OCaml 
+```ocaml 
 toplevel
 
 let average a b =
@@ -89,13 +85,13 @@ my_ref := 100;
 * Functions
 
 A function always has exactly one parameter, and returns one result.
-``` OCaml 
+```ocaml 
 (* In this case, the one argument is a tuple, and the one result is a tuple. *)
 let swap (x, y) = (y, x);;
 ``` 
 
 
-``` OCaml 
+```ocaml 
 let sum (x, y) = x + y;;
 sum(3, 5);;
 let max (x, y) = if x > y then x else y;;
@@ -106,58 +102,58 @@ let hi () =
 ```
 
 
-``` oCaml
+```ocaml
 (*
 Here, the one argument is the unit, (), which is a value--it is not syntax to indicate an empty parameter list. Similarly, the unit is returned as a result.
 *)
 print_newline ();;
 ``` 
 
-* Include Files
-``` OCaml 
+## Include Files
+```ocaml 
 use "myFile.sml"
 ``` 
 The most common functions are in the "Pervasives module," which means you don't have to do anything special to use them
 
-``` OCaml 
+```ocaml 
 open String;; 
 length "hello";;
 ``` 
 
 Identifiers must begin with a lowercase letter or underscore, and may contain letters, digits, underscores, and single quotes.
 
-* Lists
+## Lists
 [2; 3; 5; 7]
 Only the :: operator (LISP cons) and @ operator (list concatenation) can be used without opening the List module or prefixing the function name with List. .
 
-** List Operations
+### List Operations
 
-``` OCaml 
+```ocaml 
 5 :: [6; 7]
 [5] @ [6; 7]
 List.nth [3; 5; 7] 2
 List.rev [1; 2; 3]
 ``` 
 
-* Tuples
-``` OCaml 
+## Tuples
+```ocaml 
 (5, "hello", ~16)
 ```
 
-** Tuple Operations
-``` OCaml
+### Tuple Operations
+```ocaml
 open Char;;
 Char.uppercase 'a'
 ``` 
 
-* Exceptions
+## Exceptions
 
 The name of an exception must begin with a capital letter. 
 
 You can declare new types of exceptions, with or without a parameter
 
-* Comments
-``` ocaml
+## Comments
+```ocaml
 (* One line *)
 (* 
  * Multi-line
@@ -169,25 +165,25 @@ You can declare new types of exceptions, with or without a parameter
 
 ```
 
-* opam Package Manager
+## opam Package Manager
 + http://opam.ocaml.org/doc/Install.html
  - brew install opam
-``` ocaml
+```ocaml
 
 ```
 
-``` ocaml
+```ocaml
 
 ```
 
-``` ocaml
+```ocaml
 
 ```
 
-``` ocaml
+```ocaml
 
 ```
 
-``` ocaml
+```ocaml
 
 ```

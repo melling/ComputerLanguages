@@ -1,9 +1,6 @@
-#+STARTUP: showall
-#+TITLE: R
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# R
 
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | 
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 + [[https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html][Introduction to R Programming]]
@@ -18,7 +15,7 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + [[http://r4ds.had.co.nz][R for Data Science]]
 + [[http://www.burns-stat.com/documents/tutorials/impatient-r/][Impatient R]]
 
-* Editor Support
+## Editor Support
 + [[https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2][Announcing R Tools for Visual Studio]]
  - [[https://github.com/Microsoft/RTVS][R Tools for Visual Studio]]
 + [[http://ess.r-project.org][Emacs Speaks Statistics (ESS)]]

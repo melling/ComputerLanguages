@@ -1,10 +1,6 @@
-#+STARTUP: showall
-#+TITLE: Python
-#+AUTHOR: http://h4labs.com
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/resources/css/myorg.css" />
+# Python
 
-#+INCLUDE: "dev_menu.org"
-Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.org][Go]] | [[file:haskell.org][Haskell]] | [[file:ocaml.org][OCaml]] | [[file:perl.org][Perl]] | [[file:python.org][Python]] | [[file:r.org][R]] | [[file:scala.org][Scala]] | [[file:sql.org][SQL]] 
+Menu: [bash](bash.md) | [Compilers](compilers.ms) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 
@@ -20,19 +16,20 @@ Menu: [[file:bash.org][bash]] | [[file:compilers.org][Compilers]] | [[file:go.or
 + http://github.com/binux/pyspider
 + http://news.ycombinator.com/item?id=8665820
 
-* Django
+## Django
 + http://www.marinamele.com/taskbuster-django-tutorial
 
 
-```
+```sh
 
 python3 -m http.server --cgi 8000
 
 ```
 
-```
+```sh
 $ cd /home/somedir
 $ python -m SimpleHTTPServer
+```
 
 That's it! Now your http server will start in port 8000. You will get the message:
 
@@ -82,11 +79,14 @@ httpd.serve_forever()
 
 http://stackoverflow.com/questions/101268/hidden-features-of-python
 
-Games in Python: http://inventwithpython.com/chapters/
+### Games in Python 
+
+http://inventwithpython.com/chapters/
+
 
 http://anandology.com/python-practice-book/index.html
 
-Pyflakes
+### Pyflakes
 
 http://stackoverflow.com/questions/35470/are-there-any-static-analysis-tools-for-python
 
