@@ -26,7 +26,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + [Anders Hejlsberg on Modern Compiler Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
     - https://news.ycombinator.com/item?id=11685317
 + http://squanch.org/writing-a-compiler-in-go/
-+ [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
++ [How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
     - https://news.ycombinator.com/item?id=12777852
 + [Resources for Amateur Compiler Writers](http://c9x.me/comp-bib/)
 + [Want to Write a Compiler? Read These Two Papers - HN](https://news.ycombinator.com/item?id=10786842)
@@ -35,7 +35,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
     - https://news.ycombinator.com/item?id=13207441
 + [Inside a register allocator](http://artagnon.com/inside-a-register-allocator)
     - https://news.ycombinator.com/item?id=11365154
-+ Let's Build a Simple Interpreter: [Part #1](https://ruslanspivak.com/lsbasi-part1/) | [Part #2]([https://ruslanspivak.com/lsbasi-part2/) | [Part #3](https://ruslanspivak.com/lsbasi-part3/) | [[Part #4](https://ruslanspivak.com/lsbasi-part4/) | [Part #5](https://ruslanspivak.com/lsbasi-part5/) | [Part #6](http://ruslanspivak.com/lsbasi-part6) | [Part 7](http://ruslanspivak.com/lsbasi-part7/) | [Part 8](https://ruslanspivak.com/lsbasi-part8/) | [Part 9](https://ruslanspivak.com/lsbasi-part9/)
++ Let's Build a Simple Interpreter: [Part #1](https://ruslanspivak.com/lsbasi-part1/) | [Part #2](https://ruslanspivak.com/lsbasi-part2/) | [Part #3](https://ruslanspivak.com/lsbasi-part3/) | [[Part #4](https://ruslanspivak.com/lsbasi-part4/) | [Part #5](https://ruslanspivak.com/lsbasi-part5/) | [Part #6](http://ruslanspivak.com/lsbasi-part6) | [Part 7](http://ruslanspivak.com/lsbasi-part7/) | [Part 8](https://ruslanspivak.com/lsbasi-part8/) | [Part 9](https://ruslanspivak.com/lsbasi-part9/)
 + [Python: Writing a Compiler and Interpreter in 160 lines of code](http://www.jroller.com/languages/entry/python_writing_a_compiler_and)
 + [Implementing a programming language in D: Lexical Analysis](http://blog.felixangell.com/implementing-a-programming-language-in-d-part-1/)
 + [CS143 Compilers - 2011](http://www.keithschwarz.com/cs143/WWW/sum2011/)
