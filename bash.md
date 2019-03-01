@@ -1,6 +1,6 @@
 # Bash
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 
 + http://xmodulo.com/better-alternatives-basic-command-line-utilities.html
@@ -18,7 +18,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 + http://github.com/x0054/hyperjump
- - http://news.ycombinator.com/item?id=9323135
+   - http://news.ycombinator.com/item?id=9323135
 + http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/
 + http://news.ycombinator.com/item?id=5690235
 + http://news.ycombinator.com/item?id=2983079

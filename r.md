@@ -1,6 +1,6 @@
 # R
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.md) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 
@@ -19,6 +19,6 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Editor Support
 
 + [Announcing R Tools for Visual Studio](https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2)
-- [[https://github.com/Microsoft/RTVS][R Tools for Visual Studio]]
++ [[https://github.com/Microsoft/RTVS][R Tools for Visual Studio]]
 + [Emacs Speaks Statistics (ESS)](http://ess.r-project.org)
 + [RStudio](https://www.rstudio.com/home/)
