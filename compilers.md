@@ -59,7 +59,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + [A Small C Compiler](https://github.com/rui314/8cc)
 + [A Quick C Compiler](http://c9x.me/qcc)
 + [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
-- https://news.ycombinator.com/item?id=11395656
+    - https://news.ycombinator.com/item?id=11395656
 + [Ultra Tiny Compiler](https://github.com/elfet/ultra-tiny-compiler)
 + https://github.com/rcorcs/rcc
     - https://news.ycombinator.com/item?id=11903674
