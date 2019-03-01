@@ -46,7 +46,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + [SSA-based Compiler Design](http://ssabook.gforge.inria.fr/latest/book.pdf)
 + https://gist.github.com/mamcx/e1743571b9a1ea163a7f9f07aa6a8ae2 - Lista de recursos sobre crear lenguajes de programacion
 + [DIY: Make Your Own Programming Language](http://blog.ppelgren.se/2015-01-03/DIY-Make-Your-Own-Programming-language/)
-- https://news.ycombinator.com/item?id=11748484
+    - https://news.ycombinator.com/item?id=11748484
 + [So You Want to Be a (Compiler) Wizard](http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/)
     - https://news.ycombinator.com/item?id=11777631
 + [Let's Build a Compiler - Jack Crenshaw](http://compilers.iecc.com/crenshaw/)
