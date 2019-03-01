@@ -1,6 +1,6 @@
 # Elixir
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 
@@ -10,8 +10,8 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + Phoenix Framework
  - http://www.phoenixframework.org/docs/overview
  - http://phoenix.thefirehoseproject.com/1.html
-+ [[https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers][Elixir is for programmers]]
-+ [[https://elixir.libhunt.com][Awesome Elixir]]
++ [Elixir is for programmers]([https://www.pluralsight.com/blog/software-development/elixir-is-for-programmers)
++ [Awesome Elixir](https://elixir.libhunt.com)
 
 ## Editor Support
 + Atom

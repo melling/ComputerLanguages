@@ -1,14 +1,17 @@
 # Haskell
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 
 ## Inbox
-+ [[http://research.microsoft.com/en-us/um/people/simonpj/Papers/papers.html][Simon Peyton Jones: papers]]
+
++ [Simon Peyton Jones: papers](http://research.microsoft.com/en-us/um/people/simonpj/Papers/papers.html)
 + https://github.com/bitemyapp/learnhaskell
-+ [[https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/][Four months with Haskell]]
-* Editor Support 
-+ [[https://gist.github.com/androidfred/a2bef54310c847f263343c529d32acd8][Haskell, Stack and Intellij IDEA IDE setup tutorial how to get started]]
++ [Four months with Haskell](https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
+
+### Editor Support
+
++ [Haskell, Stack and Intellij IDEA IDE setup tutorial how to get started](https://gist.github.com/androidfred/a2bef54310c847f263343c529d32acd8)
 
 ## Tutorials
 
@@ -16,15 +19,16 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + http://news.ycombinator.com/item?id=9830431
 + http://learnyouahaskell.com/input-and-output
 + http://book.realworldhaskell.org
-+ http://news.ycombinator.com/item?id=9003898 - Learn Physics by Programming in Haskell [pdf]
++ [Learn Physics by Programming in Haskell -pdf](http://news.ycombinator.com/item?id=9003898)
 + http://www.kronosnotebook.com/haskell
 
 ## Misc
-+ [[https://github.com/shekhargulati/99-problems/tree/master/haskell][Ninety-Nine Problems in Haskell]]
-+ https://hackage.haskell.org - Hackage is the Haskell community's central package archive of open source software
+
++ [Ninety-Nine Problems in Haskell](https://github.com/shekhargulati/99-problems/tree/master/haskell)
++ [Hackage is the Haskell community's central package archive of open source software](https://hackage.haskell.org)
 + http://www.haskellforall.com/2015/10/basic-haskell-examples.html
 + https://github.com/chrisdone/structured-haskell-mode
-+ [[http://news.ycombinator.com/item?id=9775467][The Algebra of Algebraic data types]]
++ [The Algebra of Algebraic data types](http://news.ycombinator.com/item?id=9775467)
 + http://science.raphael.poss.name/haskell-for-ocaml-programmers.html
  - https://news.ycombinator.com/item?id=9704679
 + #haskell-beginners on freenode
@@ -40,4 +44,5 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + http://www.seas.upenn.edu/~cis194/
 
 ## Monads
-+ [[https://www.futurelearn.com/courses/functional-programming-haskell/1/steps/108529][Monad metaphors]]
+
++ [Monad metaphors](https://www.futurelearn.com/courses/functional-programming-haskell/1/steps/108529)

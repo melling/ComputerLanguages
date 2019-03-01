@@ -1,10 +1,10 @@
 # Python
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## Inbox
 
-+ [[https://pypi.python.org/pypi][PyPI]] - The Python Package Index
++ [PyPI](https://pypi.python.org/pypi) - The Python Package Index
 + http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
 + http://www.dataquest.io/blog/python-vs-r
 + http://news.ycombinator.com/item?id=7727369 - Write to a Google Spreadsheet from a Python script (2009) (mattcutts.com)
@@ -17,6 +17,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 + http://news.ycombinator.com/item?id=8665820
 
 ## Django
+
 + http://www.marinamele.com/taskbuster-django-tutorial
 
 

@@ -1,69 +1,65 @@
 # Go
 
-Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.org) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
+Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir](elixir.md) |  [F#](fsharp.ms) | [Go](go.md) | [Haskell](haskell.md) | [OCaml](ocaml.md) | [Octave](octave.md) | [Perl](perl.md) | [Python](python.md) | [R](r.md) | [Rust](rust.md) | [Scala](scala.md)  | [SQL](sql.md)
 
 ## The Short List
-
-+ [[https://github.com/avelino/awesome-go][Awesome Go]]
-+ [[https://github.com/arschles/go-in-5-minutes][Go in 5 Minutes]]
- - http://www.goin5minutes.com/screencasts/index.html
-+ [[https://gobyexample.com][Go by Example]]
++ [Awesome Go](https://github.com/avelino/awesome-go)
++ [Go in 5 Minutes](https://github.com/arschles/go-in-5-minutes)
+- http://www.goin5minutes.com/screencasts/index.html
++ [Go by Example](https://gobyexample.com)
 
 ## Editor/IDE Support
 
-+ [[https://github.com/Microsoft/vscode-go][Visual Studio Code Plugin]]
++ [Visual Studio Code Plugin](https://github.com/Microsoft/vscode-go)
 + https://rootpd.com/2016/02/04/setting-up-intellij-idea-for-your-first-golang-project
 + http://hadihariri.com/2015/09/30/setting-up-go-on-intellij
 + http://marcio.io/2015/07/supercharging-atom-editor-for-go-development
 
 ## Web
 
-+ [[http://rrmartins.herokuapp.com/blog/2016/05/12/rss-collector-in-ruby-and-go/][RSS Collector in Ruby and Go]]
-+ [[https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html][Building Web Apps in Go]]
-+ [[https://mholt.github.io/curl-to-go][Curl to Go]]
++ [RSS Collector in Ruby and Go](http://rrmartins.herokuapp.com/blog/2016/05/12/rss-collector-in-ruby-and-go/)
++ [Building Web Apps in Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html)
++ [Curl to Go](https://mholt.github.io/curl-to-go)
 + http://java.dzone.com/articles/exploring-go-template-engine
 + http://news.ycombinator.com/item?id=9439041 - A minimal blog engine written in Go, compatible with Ghost themes
 + http://getting-started.md/guides/3-go-martini
-+ [[http://github.com/doneland/yquotes][yquotes - Yahoo Stock Quotes in Go]]
-  - http://news.ycombinator.com/item?id=9374373
++ [yquotes - Yahoo Stock Quotes in Go](http://github.com/doneland/yquotes)
+- http://news.ycombinator.com/item?id=9374373
 + http://nicolasmerouze.com/build-web-framework-golang/
-+ [[http://jdanger.com/build-a-web-crawler-in-go.html][Build a Web Crawler in Go]]
++ [Build a Web Crawler in Go](http://jdanger.com/build-a-web-crawler-in-go.html)
 + http://soryy.com/blog/2014/not-another-go-net-http-tutorial
-+ [[https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker][How To Deploy a Go Web Application with Docker]]
++ [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker)
 
 ## Inbox
-+ [[http://divan.github.io/posts/go_concurrency_visualize/][Visualizing Concurrency in Go]]
- - https://news.ycombinator.com/item?id=14224118
-+ [[https://machiel.me/post/time-in-go-a-primer/][Time in Go: A primer]]
-+ [[http://golang.rakyll.org/go-tool-flags/][Go tooling essentials]]
++ [Visualizing Concurrency in Go](http://divan.github.io/posts/go_concurrency_visualize/)
+- https://news.ycombinator.com/item?id=14224118
++ [Time in Go: A primer](https://machiel.me/post/time-in-go-a-primer/)
++ [Go tooling essentials](http://golang.rakyll.org/go-tool-flags/)
 + http://news.ycombinator.com/item?id=10395694 - Statistics package
-+ [[https://blog.felixangell.com/an-introduction-to-llvm-in-go/][An introduction to LLVM in Go]]
++ [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
 + http://blog.ksred.me/post/learning-golang-stock-notifier
 + http://github.com/m3ng9i/ran
 + http://news.ycombinator.com/item?id=10286852 - A Lisp Compiler and Environment in Go
 + http://devdungeon.com/content/working-files-go
 + http://news.ycombinator.com/item?id=9829025 - Go-datastructures
 + http://news.ycombinator.com/item?id=9751121 - Resources to learn Go(lang)
-+ [[http://www.jjinux.com/2015/05/tetris-written-in-go.html][Tetris in Go]]
- - http://news.ycombinator.com/item?id=9607651
++ [Tetris in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
+- http://news.ycombinator.com/item?id=9607651
 + http://blog.golang.org/normalization
 + http://news.ycombinator.com/item?id=9058872 - calc
-+ [[http://news.ycombinator.com/item?id=9009554][Show HN: I rendered the Go gopher using Go]]
++ [Show HN: I rendered the Go gopher using Go](http://news.ycombinator.com/item?id=9009554)
 + http://www.wadewegner.com/2014/12/4-simple-steps-to-run-go-language-in-azure-websites/
 + http://weblogs.java.net/blog/manningpubs/archive/2014/11/19/go-practical-introduction-slices
-+ [[https://texlution.com/post/gorename/][gorename: easy refactoring tool for Golang]]
- - http://news.ycombinator.com/item?id=8643461
-+ [[http://blog.charmes.net/2014/11/futures-in-go.html][Futures in Go]]
- -  http://news.ycombinator.com/item?id=8645394
-+ [[http://talks.golang.org/2014/readability.slide#1][When in Go, do as Gophers do]]
++ [gorename: easy refactoring tool for Golang](https://texlution.com/post/gorename/)
+- http://news.ycombinator.com/item?id=8643461
++ [Futures in Go](http://blog.charmes.net/2014/11/futures-in-go.html)
+-  http://news.ycombinator.com/item?id=8645394
++ [When in Go, do as Gophers do](http://talks.golang.org/2014/readability.slide#1)
 + http://avtok.com/2014/11/05/interface-upgrades.html
-+ [[http://github.com/renstrom/go-wiki][Go Wiki - A simple HTTP server rendering Markdown styled documents http://renstrom.github.io/go-wiki]]
-+ [[http://github.com/cdarwin/go-koans][Go Koans]]
++ [Go Wiki - A simple HTTP server rendering Markdown styled documents http://renstrom.github.io/go-wiki](http://github.com/renstrom/go-wiki)
++ [Go Koans](http://github.com/cdarwin/go-koans)
 
-* Setup
-#+BEGIN_HTML
-<pre class='org-code'>
-#+END_HTML
+## Setup
 
 ```sh
 export GOPATH=$HOME
@@ -72,14 +68,14 @@ go get github.com/mattn/go-sqlite3
 go get github.com/gorilla/mux
 go get github.com/gorilla/pat
 go get github.com/go-sql-driver/mysql; # http://github.com/go-sql-driver/mysql
-```
+
 ---
 
 golang-book.com
 gpm
 godep
 goop
-
+```
 
 
 ## Tutorials
