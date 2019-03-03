@@ -13,7 +13,8 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 
 ## Inbox
-
++ [Functional Programming in OCaml](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+    - https://news.ycombinator.com/item?id=19292067
 + [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)
 + [99 Problems (solved) in OCaml](https://ocaml.org/learn/tutorials/99problems.html)
 + https://www.reddit.com/r/ocaml/comments/49zzg6/oml_machine_learning_in_ocaml_composeconf_talk
