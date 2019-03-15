@@ -15,6 +15,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Tutorials
 
++ [Writing a simple evaluator and type-checker in Haskell](https://bor0.wordpress.com/2019/03/15/writing-a-simple-evaluator-and-type-checker-in-haskell/)
 + http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html
 + http://news.ycombinator.com/item?id=9830431
 + http://learnyouahaskell.com/input-and-output
