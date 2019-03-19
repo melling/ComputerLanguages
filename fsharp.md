@@ -4,7 +4,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
-+ [Tour of F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
+- [Tour of F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
    - https://news.ycombinator.com/item?id=13708453
- + [F# for Azure Notebooks](https://notebooks.azure.com/library/samples/html/FSharp%20for%20Azure%20Notebooks.ipynb)
- 
+- [F# for Azure Notebooks](https://notebooks.azure.com/library/samples/html/FSharp%20for%20Azure%20Notebooks.ipynb)
+- [Functional Koans - F#](https://github.com/ChrisMarinos/FSharpKoans/tree/ae7e081f839929b898d1f09e7893e1f3ff5c4d61)
