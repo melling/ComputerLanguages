@@ -48,3 +48,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Monads
 
 - [Monad metaphors](https://www.futurelearn.com/courses/functional-programming-haskell/1/steps/108529)
+
+## Lens
+
+- [Lens Over Tea](https://artyom.me/lens-over-tea-1)
