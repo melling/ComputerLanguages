@@ -5,7 +5,6 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Inbox
 
 - [Creating Heatmap From Scratch](https://www.geodose.com/2018/01/creating-heatmap-in-python-from-scratch.html)
-
 - [PyPI](https://pypi.python.org/pypi) - The Python Package Index
 - http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
 - http://www.dataquest.io/blog/python-vs-r
