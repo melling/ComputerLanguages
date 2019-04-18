@@ -4,21 +4,23 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
-+ [PyPI](https://pypi.python.org/pypi) - The Python Package Index
-+ http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
-+ http://www.dataquest.io/blog/python-vs-r
-+ http://news.ycombinator.com/item?id=7727369 - Write to a Google Spreadsheet from a Python script (2009) (mattcutts.com)
-+ http://www.nltk.org
-+ http://madlag.github.io/jarvis/
-+ http://news.ycombinator.com/item?id=7715349 - Common Python Mistakes 
-+ http://pypi.python.org/pypi/goslate
-+ http://www.blog.pythonlibrary.org/2014/02/26/python-101-reading-and-writing-csv-files/
-+ http://github.com/binux/pyspider
-+ http://news.ycombinator.com/item?id=8665820
+- [Creating Heatmap From Scratch](https://www.geodose.com/2018/01/creating-heatmap-in-python-from-scratch.html)
+
+- [PyPI](https://pypi.python.org/pypi) - The Python Package Index
+- http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
+- http://www.dataquest.io/blog/python-vs-r
+- http://news.ycombinator.com/item?id=7727369 - Write to a Google Spreadsheet from a Python script (2009) (mattcutts.com)
+- http://www.nltk.org
+- http://madlag.github.io/jarvis/
+- http://news.ycombinator.com/item?id=7715349 - Common Python Mistakes 
+- http://pypi.python.org/pypi/goslate
+- http://www.blog.pythonlibrary.org/2014/02/26/python-101-reading-and-writing-csv-files/
+- http://github.com/binux/pyspider
+-  http://news.ycombinator.com/item?id=8665820
 
 ## Django
 
-+ http://www.marinamele.com/taskbuster-django-tutorial
+- http://www.marinamele.com/taskbuster-django-tutorial
 
 
 ```sh
@@ -82,30 +84,18 @@ http://stackoverflow.com/questions/101268/hidden-features-of-python
 
 ### Games in Python 
 
-http://inventwithpython.com/chapters/
-
-
-http://anandology.com/python-practice-book/index.html
+- http://inventwithpython.com/chapters/
+- http://anandology.com/python-practice-book/index.html
 
 ### Pyflakes
 
-http://stackoverflow.com/questions/35470/are-there-any-static-analysis-tools-for-python
-
-http://stackoverflow.com/questions/115977/using-pylint-with-django
-
-http://articles.sitepoint.com/article/django-crash-course
-
-http://www.sqlalchemy.org/
-
-http://www.jonobacon.org/2010/01/08/acire-delivering-a-world-of-python-snippets/
-
-http://dis.4chan.org/read/prog/1180084983/
-300 Tutorials
-
-ElementTree
-http://effbot.org/zone/element.htm
-
-Django
-http://uswaretech.com/blog/2010/01/doing-things-with-django-forms/
+- http://stackoverflow.com/questions/35470/are-there-any-static-analysis-tools-for-python
+- http://stackoverflow.com/questions/115977/using-pylint-with-django
+- http://articles.sitepoint.com/article/django-crash-course
+- http://www.sqlalchemy.org/
+- http://www.jonobacon.org/2010/01/08/acire-delivering-a-world-of-python-snippets/
+- [300 Tutorials](http://dis.4chan.org/read/prog/1180084983/)
+- [ElementTree](http://effbot.org/zone/element.htm)
+- [Django Forms](http://uswaretech.com/blog/2010/01/doing-things-with-django-forms/)
 
 ```
