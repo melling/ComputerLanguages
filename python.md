@@ -4,6 +4,8 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
+- [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+   - https://news.ycombinator.com/item?id=19971274
 - [Creating Heatmap From Scratch](https://www.geodose.com/2018/01/creating-heatmap-in-python-from-scratch.html)
 - [PyPI](https://pypi.python.org/pypi) - The Python Package Index
 - http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems
