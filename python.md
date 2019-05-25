@@ -22,6 +22,11 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Mathplotlib
 
 - [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
+
+## Pandas
+
+- [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
+
 ## Django
 
 - http://www.marinamele.com/taskbuster-django-tutorial
