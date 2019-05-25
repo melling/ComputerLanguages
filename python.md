@@ -19,6 +19,9 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - http://github.com/binux/pyspider
 -  http://news.ycombinator.com/item?id=8665820
 
+## Mathplotlib
+
+- [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 ## Django
 
 - http://www.marinamele.com/taskbuster-django-tutorial
