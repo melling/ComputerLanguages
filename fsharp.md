@@ -4,6 +4,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
+- [Mere Functional Programming in F#](https://dev.to/kspeakman/mere-functional-programming-in-f-do8)
 - [Tour of F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
    - https://news.ycombinator.com/item?id=13708453
 - [F# for Azure Notebooks](https://notebooks.azure.com/library/samples/html/FSharp%20for%20Azure%20Notebooks.ipynb)
