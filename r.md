@@ -4,21 +4,23 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
-+ [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
+- [GAMs in R - Free course](https://noamross.github.io/gams-in-r-course/)
+- [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
 - https://news.ycombinator.com/item?id=15868595
-+ [R Tutorial](http://www.statmethods.net/r-tutorial/index.html)
-+ [Advanced R by Hadley Wickham](http://adv-r.had.co.nz)
-+ [Learn X in Y minutes Where X=R](https://learnxinyminutes.com/docs/r/)
-+ [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno)
-+ [Coursera R Programming Course](https://www.coursera.org/learn/r-programming)
-+ [swirl - Learn R, in R](http://swirlstats.com)
-+ [Try R by Code School](http://tryr.codeschool.com)
-+ [R for Data Science](http://r4ds.had.co.nz)
-+ [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
+- [R Tutorial](http://www.statmethods.net/r-tutorial/index.html)
+- [Advanced R by Hadley Wickham](http://adv-r.had.co.nz)
+- [Learn X in Y minutes Where X=R](https://learnxinyminutes.com/docs/r/)
+- [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno)
+- [Coursera R Programming Course](https://www.coursera.org/learn/r-programming)
+- [swirl - Learn R, in R](http://swirlstats.com)
+- [Try R by Code School](http://tryr.codeschool.com)
+- [R for Data Science](http://r4ds.had.co.nz)
+- [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
+
 
 ## Editor Support
 
-+ [Announcing R Tools for Visual Studio](https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2)
-+ [[https://github.com/Microsoft/RTVS][R Tools for Visual Studio]]
-+ [Emacs Speaks Statistics (ESS)](http://ess.r-project.org)
-+ [RStudio](https://www.rstudio.com/home/)
+- [Announcing R Tools for Visual Studio](https://blogs.technet.microsoft.com/machinelearning/2016/03/09/announcing-r-tools-for-visual-studio-2)
+- [[https://github.com/Microsoft/RTVS][R Tools for Visual Studio]]
+- [Emacs Speaks Statistics (ESS)](http://ess.r-project.org)
+- [RStudio](https://www.rstudio.com/home/)
