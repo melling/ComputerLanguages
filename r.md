@@ -4,6 +4,8 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
+- [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+   - https://news.ycombinator.com/item?id=20102950
 - [GAMs in R - Free course](https://noamross.github.io/gams-in-r-course/)
 - [Introduction to R Programming](https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html)
 - https://news.ycombinator.com/item?id=15868595
