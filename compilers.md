@@ -5,6 +5,8 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
+- https://github.com/kanaka/mal/
+   - https://news.ycombinator.com/item?id=21670442
 - https://generalproblem.net/lets_build_a_compiler/01-starting-out/
    - https://news.ycombinator.com/item?id=20444474
 - https://github.com/igorkulman/SwiftPascalInterpreter
