@@ -5,7 +5,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Inbox
 
 - [Master LATEX in Minutes](https://github.com/VoLuong/Master-Latex-in-minutes)
- - https://news.ycombinator.com/item?id=12829799
+  - https://news.ycombinator.com/item?id=12829799
 
 ## CV Templates
 
