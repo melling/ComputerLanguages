@@ -10,6 +10,6 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## CV Templates
 
 - https://olivierpieters.be/projects/limecv
- - https://news.ycombinator.com/item?id=15639339
+  - https://news.ycombinator.com/item?id=15639339
 - https://github.com/posquit0/Awesome-CV
 - https://texblog.org/2012/04/25/writing-a-cv-in-latex/
