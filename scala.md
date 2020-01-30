@@ -13,3 +13,4 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 - [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 - [Scala Center](http://scala.epfl.ch)
+- http://aperiodic.net/phil/scala/s-99/
