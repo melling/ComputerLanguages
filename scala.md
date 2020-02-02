@@ -14,3 +14,4 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 - [Scala Center](http://scala.epfl.ch)
 - http://aperiodic.net/phil/scala/s-99/
+- http://scalacookbook.com/
