@@ -56,8 +56,13 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - [So You Want to Be a (Compiler) Wizard](http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/)
     - https://news.ycombinator.com/item?id=11777631
 - [Let's Build a Compiler - Jack Crenshaw](http://compilers.iecc.com/crenshaw/)
+   - https://news.ycombinator.com/item?id=22346532
+   - https://news.ycombinator.com/item?id=6641117
+   - https://news.ycombinator.com/item?id=1727004 
+   - https://news.ycombinator.com/item?id=232024 
 - [ParTcl - a micro Tcl implementation](https://github.com/zserge/partcl)
     - https://news.ycombinator.com/item?id=13675166
+
 
 ## Compilers
 
@@ -76,6 +81,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - https://blog.gopheracademy.com/advent-2014/parsers-lexers
 - [Parsing: The Solved Problem That Isn't](http://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt)
 - [Flex and Bison: tips for beginners](http://stanislaw.github.io/2016/04/02/flex-and-bison-tips-for-beginners.html)
+
 
 ## Optimization
 
