@@ -4,7 +4,9 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 ## Inbox
 
-
+- https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
+   - https://news.ycombinator.com/item?id=22448933
 
 ## Books
-+
+
+- 
