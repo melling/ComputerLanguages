@@ -19,6 +19,18 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - [R for Data Science](http://r4ds.had.co.nz)
 - [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
 
+## ggplot2
+
+- http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+
+## Shiny
+
+- https://shiny.rstudio.com/gallery/
+- https://heads0rtai1s.github.io/2019/12/05/shiny-starter-code/
+
+## Machine Learning
+
+- https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 ## Editor Support
 
