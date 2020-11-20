@@ -26,6 +26,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 ## Pandas
 
 - [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
+- https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0
 
 ## Django
 
