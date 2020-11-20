@@ -28,6 +28,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 
 - [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 - https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0
+- https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
 
 ## Django
 
