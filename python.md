@@ -97,6 +97,10 @@ http://stackoverflow.com/questions/101268/hidden-features-of-python
 
 - https://machinelearningmastery.com/lasso-regression-with-python/
 
+#### PyTorch
+
+- https://github.com/Atcold/pytorch-Deep-Learning
+
 ### Games in Python 
 
 - http://inventwithpython.com/chapters/
