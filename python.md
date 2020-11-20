@@ -96,6 +96,7 @@ http://stackoverflow.com/questions/101268/hidden-features-of-python
 ### Machine Learning
 
 - https://machinelearningmastery.com/lasso-regression-with-python/
+- https://jdridgeway.com/deep-learning-from-scratch-generalizing-gradient-descent/
 
 #### PyTorch
 
