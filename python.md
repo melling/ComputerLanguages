@@ -93,6 +93,10 @@ httpd.serve_forever()
 
 http://stackoverflow.com/questions/101268/hidden-features-of-python
 
+### Machine Learning
+
+- https://machinelearningmastery.com/lasso-regression-with-python/
+
 ### Games in Python 
 
 - http://inventwithpython.com/chapters/
