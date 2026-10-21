@@ -15,7 +15,7 @@ Menu: [Home](README.md) | [bash](bash.md) | [Compilers](compilers.md) | [Elixir]
 - [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno)
 - [Coursera R Programming Course](https://www.coursera.org/learn/r-programming)
 - [swirl - Learn R, in R](http://swirlstats.com)
-- [Try R by Code School](http://tryr.codeschool.com)
+- [Coddy R course](https://coddy.tech/landing/r)
 - [R for Data Science](http://r4ds.had.co.nz)
 - [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
 
